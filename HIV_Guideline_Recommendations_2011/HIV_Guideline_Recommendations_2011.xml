@@ -1,0 +1,4396 @@
+<?xml version="1.0" encoding="UTF-8"?><GuidelineDocument xmlns="http://gem.yale.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gem.yale.edu gemschemaiii.xsd">
+<Identity id="1" source="nd">
+<GuidelineTitle id="1" source="inferred">Malawi Guidelines for Clinical Management of HIV in Children and Adults 2011</GuidelineTitle>
+<Citation id="1" source="nd">
+<GuidelineLength id="1" source="nd"/>
+</Citation>
+<GEMCutHistory id="1" source="nd">
+<GEMCutVersion id="1" source="nd">
+<GEMCutAuthor id="1" source="nd"/>
+<GEMCutDate id="1" source="nd"/>
+</GEMCutVersion>
+</GEMCutHistory>
+<ReleaseDate id="1" source="nd"/>
+<Availability id="1" source="nd">
+<Electronic id="1" source="nd"/>
+<Print id="1" source="nd"/>
+<Contact id="1" source="nd"/>
+</Availability>
+<Status id="1" source="nd"/>
+<CompanionDocument id="1" source="nd">
+<PatientResource id="1" source="nd"/>
+<QuickReferenceGuide id="1" source="nd"/>
+<TechnicalReport id="1" source="nd"/>
+</CompanionDocument>
+<Adaptation id="1" source="nd"/>
+<StructuredAbstract id="1" source="nd"/>
+</Identity>
+<Developer id="1" source="nd">
+<DeveloperName id="1" source="nd"/>
+<CommitteeName id="1" source="nd">
+<CommitteeExpertise id="1" source="nd"/>
+<CommitteeMember id="1" source="nd">
+<MemberExpertise id="1" source="nd"/>
+<MemberConflict id="1" source="nd"/>
+<MemberRole id="1" source="nd"/>
+</CommitteeMember>
+</CommitteeName>
+<Funding id="1" source="nd"/>
+<Endorser id="1" source="nd"/>
+<ComparableGuideline id="1" source="nd"/>
+<RoleOfSponsor id="1" source="nd"/>
+<ConflictOfInterest id="1" source="nd">
+<COIPolicy id="1" source="nd"/>
+<COIDisclosure id="1" source="nd"/>
+</ConflictOfInterest>
+</Developer>
+<Purpose id="1" source="nd">
+<MainFocus id="1" source="nd"/>
+<Rationale id="1" source="nd"/>
+<Objective id="1" source="nd"/>
+<AvailableOption id="1" source="nd"/>
+<HealthOutcome id="1" source="nd"/>
+<Exception id="1" source="nd"/>
+</Purpose>
+<IntendedAudience id="1" source="nd">
+<Users id="1" source="nd"/>
+<CareSetting id="1" source="nd"/>
+</IntendedAudience>
+<MethodOfDevelopment id="1" source="nd">
+<DescriptionEvidenceCollection id="1" source="nd">
+<EvidenceTimePeriod id="1" source="nd"/>
+<NumberSourceDocuments id="1" source="nd"/>
+<EvidenceSelectionCriteria id="1" source="nd"/>
+</DescriptionEvidenceCollection>
+<DescriptionEvidenceCombination id="1" source="nd"/>
+<CostAnalysis id="1" source="nd"/>
+<SpecificationHarmBenefit id="1" source="nd"/>
+<QuantificationHarmBenefit id="1" source="nd"/>
+<RoleValueJudgment id="1" source="nd"/>
+<RolePatientPreference id="1" source="nd"/>
+<QualifyingStatement id="1" source="nd"/>
+<MethodsToReachJudgment id="1" source="nd"/>
+<RatingScheme id="1" source="nd">
+<EvidenceQualityRatingScheme id="1" source="nd"/>
+<RecommendationStrengthRatingScheme id="1" source="nd"/>
+</RatingScheme>
+<PatientAndPublicInvolvement id="1" source="nd"/>
+</MethodOfDevelopment>
+<TargetPopulation id="1" source="nd">
+<Eligibility id="1" source="nd">
+<InclusionCriterion id="1" source="nd">
+<InclusionCriterionCode id="1" source="nd"/>
+</InclusionCriterion>
+<ExclusionCriterion id="1" source="nd">
+<ExclusionCriterionCode id="1" source="nd"/>
+</ExclusionCriterion>
+</Eligibility>
+</TargetPopulation>
+<KnowledgeComponents id="1" source="nd">
+<Recommendation id="1" source="explicit">Routine ascertainment of HIV infection status for children and adults<StatementOfFact id="1" source="nd"/>
+<Conditional id="1" source="explicit">never tested<BenefitHarmAssessment id="1" source="nd"/>
+<DecisionVariable id="1" source="inferred">HIV status<Value id="1" source="inferred">never tested</Value>
+<DecisionVariableCode id="1" source="nd"/>
+<DecisionVariableDescription id="1" source="nd">
+<IntentionalVagueness id="1" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="1" source="nd">
+<Sensitivity id="1" source="nd"/>
+<Specificity id="1" source="nd"/>
+<PredictiveValue id="1" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="1" source="nd"/>
+</DecisionVariable>
+<Action id="1" source="inferred">Offer HIV testing to patient<ActionActor id="1" source="nd"/>
+<ActionCode id="1" source="nd"/>
+<ActionVerb id="1" source="nd"/>
+<ActionDeonticTerm id="1" source="nd"/>
+<ActionVerbComplement id="1" source="nd"/>
+<ActionBenefit id="1" source="nd"/>
+<ActionRiskHarm id="1" source="nd"/>
+<ActionDescription id="1" source="nd">
+<IntentionalVagueness id="1" source="nd"/>
+</ActionDescription>
+<ActionCost id="1" source="nd"/>
+<ActionValue id="1" source="nd"/>
+<ActionType id="1" source="nd"/>
+</Action>
+<Reason id="1" source="nd"/>
+<EvidenceQuality id="1" source="nd">
+<EvidenceQualityDescription id="1" source="nd"/>
+<Disagreement id="1" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="1" source="nd">
+<RecommendationStrengthCode id="1" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="1" source="nd"/>
+<Logic id="1" source="nd"/>
+<Cost id="1" source="nd"/>
+<Linkage id="1" source="nd"/>
+<Reference id="1" source="nd"/>
+<Certainty id="1" source="nd"/>
+<Goal id="1" source="nd"/>
+</Conditional>
+<Conditional id="7" source="explicit">tested negative more than 3 months ago<BenefitHarmAssessment id="7" source="nd"/>
+<DecisionVariable id="7" source="inferred">HIV test result<Value id="7" source="inferred">negative</Value>
+<DecisionVariableCode id="7" source="nd"/>
+<DecisionVariableDescription id="7" source="nd">
+<IntentionalVagueness id="7" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="7" source="nd">
+<Sensitivity id="7" source="nd"/>
+<Specificity id="7" source="nd"/>
+<PredictiveValue id="7" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="7" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="8" source="inferred">HIV test date<Value id="8" source="explicit">more than 3 months ago</Value>
+<DecisionVariableCode id="8" source="nd"/>
+<DecisionVariableDescription id="8" source="nd">
+<IntentionalVagueness id="8" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="8" source="nd">
+<Sensitivity id="8" source="nd"/>
+<Specificity id="8" source="nd"/>
+<PredictiveValue id="8" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="8" source="nd"/>
+</DecisionVariable>
+<Action id="7" source="inferred">Offer HIV testing to patient<ActionActor id="7" source="nd"/>
+<ActionCode id="7" source="nd"/>
+<ActionVerb id="7" source="nd"/>
+<ActionDeonticTerm id="7" source="nd"/>
+<ActionVerbComplement id="7" source="nd"/>
+<ActionBenefit id="7" source="nd"/>
+<ActionRiskHarm id="7" source="nd"/>
+<ActionDescription id="7" source="nd">
+<IntentionalVagueness id="7" source="nd"/>
+</ActionDescription>
+<ActionCost id="7" source="nd"/>
+<ActionValue id="7" source="nd"/>
+<ActionType id="7" source="nd"/>
+</Action>
+<Reason id="7" source="nd"/>
+<EvidenceQuality id="7" source="nd">
+<EvidenceQualityDescription id="7" source="nd"/>
+<Disagreement id="7" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="7" source="nd">
+<RecommendationStrengthCode id="7" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="7" source="nd"/>
+<Logic id="7" source="nd"/>
+<Cost id="7" source="nd"/>
+<Linkage id="7" source="nd"/>
+<Reference id="7" source="nd"/>
+<Certainty id="7" source="nd"/>
+<Goal id="7" source="nd"/>
+</Conditional>
+<Conditional id="6" source="explicit">claims to have been tested any time in the past, but without documentation<BenefitHarmAssessment id="6" source="nd"/>
+<DecisionVariable id="6" source="inferred">HIV test result<Value id="6" source="inferred">N/A</Value>
+<DecisionVariableCode id="6" source="nd"/>
+<DecisionVariableDescription id="6" source="nd">
+<IntentionalVagueness id="6" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="6" source="nd">
+<Sensitivity id="6" source="nd"/>
+<Specificity id="6" source="nd"/>
+<PredictiveValue id="6" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="6" source="nd"/>
+</DecisionVariable>
+<Action id="6" source="inferred">Offer HIV testing to patient<ActionActor id="6" source="nd"/>
+<ActionCode id="6" source="nd"/>
+<ActionVerb id="6" source="nd"/>
+<ActionDeonticTerm id="6" source="nd"/>
+<ActionVerbComplement id="6" source="nd"/>
+<ActionBenefit id="6" source="nd"/>
+<ActionRiskHarm id="6" source="nd"/>
+<ActionDescription id="6" source="nd">
+<IntentionalVagueness id="6" source="nd"/>
+</ActionDescription>
+<ActionCost id="6" source="nd"/>
+<ActionValue id="6" source="nd"/>
+<ActionType id="6" source="nd"/>
+</Action>
+<Reason id="6" source="nd"/>
+<EvidenceQuality id="6" source="nd">
+<EvidenceQualityDescription id="6" source="nd"/>
+<Disagreement id="6" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="6" source="nd">
+<RecommendationStrengthCode id="6" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="6" source="nd"/>
+<Logic id="6" source="nd"/>
+<Cost id="6" source="nd"/>
+<Linkage id="6" source="nd"/>
+<Reference id="6" source="nd"/>
+<Certainty id="6" source="nd"/>
+<Goal id="6" source="nd"/>
+</Conditional>
+<Imperative id="1" source="explicit">Routine ascertainment of HIV infection status for children and adults<BenefitHarmAssessment id="1" source="nd"/>
+<Scope id="1" source="nd">
+<ScopeCode id="1" source="nd"/>
+</Scope>
+<Directive id="1" source="explicit">Ask every client at every visit about the most recent HIV test and review their health passport for previous HIV test results<DirectiveActor id="1" source="nd"/>
+<DirectiveCode id="1" source="nd"/>
+<DirectiveVerb id="1" source="nd"/>
+<DirectiveDeonticTerm id="1" source="nd"/>
+<DirectiveVerbComplement id="1" source="nd"/>
+<DirectiveBenefit id="1" source="nd"/>
+<DirectiveRiskHarm id="1" source="nd"/>
+<DirectiveDescription id="1" source="nd">
+<IntentionalVagueness id="1" source="nd"/>
+</DirectiveDescription>
+<DirectiveCost id="1" source="nd"/>
+<DirectiveValue id="1" source="nd"/>
+<DirectiveType id="1" source="nd"/>
+</Directive>
+<Directive id="8" source="explicit">Routinely document HIV test results on page 6 of the patient’s health passport unless the patient declines<DirectiveActor id="8" source="nd"/>
+<DirectiveCode id="8" source="nd"/>
+<DirectiveVerb id="8" source="nd"/>
+<DirectiveDeonticTerm id="8" source="nd"/>
+<DirectiveVerbComplement id="8" source="nd"/>
+<DirectiveBenefit id="8" source="nd"/>
+<DirectiveRiskHarm id="8" source="nd"/>
+<DirectiveDescription id="8" source="nd">
+<IntentionalVagueness id="8" source="nd"/>
+</DirectiveDescription>
+<DirectiveCost id="8" source="nd"/>
+<DirectiveValue id="8" source="nd"/>
+<DirectiveType id="8" source="nd"/>
+</Directive>
+<Reason id="1" source="nd"/>
+<EvidenceQuality id="1" source="nd">
+<EvidenceQualityDescription id="1" source="nd"/>
+<Disagreement id="1" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="1" source="nd">
+<RecommendationStrengthCode id="1" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="1" source="nd"/>
+<Logic id="1" source="nd"/>
+<Cost id="1" source="nd"/>
+<Linkage id="1" source="nd"/>
+<Reference id="1" source="nd"/>
+<Certainty id="1" source="nd"/>
+<Goal id="1" source="nd"/>
+</Imperative>
+<Imperative id="6" source="explicit">all patients need a confirmatory HIV test to rule out any possibility of mix‐up of test results or fraudulent access to ART<BenefitHarmAssessment id="6" source="nd"/>
+<Scope id="6" source="nd">
+<ScopeCode id="6" source="nd"/>
+</Scope>
+<Directive id="6" source="explicit">all patients need a confirmatory HIV test to rule out any possibility of mix‐up of test results or fraudulent access to ART<DirectiveActor id="6" source="nd"/>
+<DirectiveCode id="6" source="nd"/>
+<DirectiveVerb id="6" source="nd"/>
+<DirectiveDeonticTerm id="6" source="nd"/>
+<DirectiveVerbComplement id="6" source="nd"/>
+<DirectiveBenefit id="6" source="nd"/>
+<DirectiveRiskHarm id="6" source="nd"/>
+<DirectiveDescription id="6" source="nd">
+<IntentionalVagueness id="6" source="nd"/>
+</DirectiveDescription>
+<DirectiveCost id="6" source="nd"/>
+<DirectiveValue id="6" source="nd"/>
+<DirectiveType id="6" source="nd"/>
+</Directive>
+<Reason id="6" source="nd"/>
+<EvidenceQuality id="6" source="nd">
+<EvidenceQualityDescription id="6" source="nd"/>
+<Disagreement id="6" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="6" source="nd">
+<RecommendationStrengthCode id="6" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="6" source="nd"/>
+<Logic id="6" source="nd"/>
+<Cost id="6" source="nd"/>
+<Linkage id="6" source="nd"/>
+<Reference id="6" source="nd"/>
+<Certainty id="6" source="nd"/>
+<Goal id="6" source="nd"/>
+</Imperative>
+<RecommendationNotes id="1" source="nd"/>
+</Recommendation>
+<Recommendation id="3" source="explicit">Routine ascertainment of HIV exposure status for children under 24 months<StatementOfFact id="3" source="nd"/>
+<Conditional id="3" source="inferred">For the mother: If she was not tested at least once during pregnancy or delivery<BenefitHarmAssessment id="3" source="nd"/>
+<DecisionVariable id="3" source="inferred">child status<Value id="3" source="inferred">has child</Value>
+<DecisionVariableCode id="3" source="nd"/>
+<DecisionVariableDescription id="3" source="nd">
+<IntentionalVagueness id="3" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="3" source="nd">
+<Sensitivity id="3" source="nd"/>
+<Specificity id="3" source="nd"/>
+<PredictiveValue id="3" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="3" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="16" source="inferred">child's age<Value id="16" source="inferred">&lt; 24 months</Value>
+<DecisionVariableCode id="16" source="nd"/>
+<DecisionVariableDescription id="16" source="nd">
+<IntentionalVagueness id="16" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="16" source="nd">
+<Sensitivity id="16" source="nd"/>
+<Specificity id="16" source="nd"/>
+<PredictiveValue id="16" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="16" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="11" source="inferred">HIV test status during pregnancy/delivery<Value id="11" source="inferred">not tested</Value>
+<DecisionVariableCode codeset="" id="11" source="nd"/>
+<DecisionVariableDescription id="11" source="nd">
+<IntentionalVagueness id="11" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="11" source="nd">
+<Sensitivity id="11" source="nd"/>
+<Specificity id="11" source="nd"/>
+<PredictiveValue id="11" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="11" source="nd"/>
+</DecisionVariable>
+<Action id="3" source="inferred">Initiate a new HIV rapid test for the mother<ActionActor id="3" source="nd"/>
+<ActionCode id="3" source="nd"/>
+<ActionVerb id="3" source="nd"/>
+<ActionDeonticTerm id="3" source="nd"/>
+<ActionVerbComplement id="3" source="nd"/>
+<ActionBenefit id="3" source="nd"/>
+<ActionRiskHarm id="3" source="nd"/>
+<ActionDescription id="3" source="nd">
+<IntentionalVagueness id="3" source="nd"/>
+</ActionDescription>
+<ActionCost id="3" source="nd"/>
+<ActionValue id="3" source="nd"/>
+<ActionType id="3" source="nd"/>
+</Action>
+<Reason id="3" source="nd"/>
+<EvidenceQuality id="3" source="nd">
+<EvidenceQualityDescription id="3" source="nd"/>
+<Disagreement id="3" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="3" source="nd">
+<RecommendationStrengthCode id="3" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="3" source="nd"/>
+<Logic id="3" source="nd"/>
+<Cost id="3" source="nd"/>
+<Linkage id="3" source="nd"/>
+<Reference id="3" source="nd"/>
+<Certainty id="3" source="nd"/>
+<Goal id="3" source="nd"/>
+</Conditional>
+<Conditional id="9" source="inferred">For the child:	If the mother is not available / has died<BenefitHarmAssessment id="9" source="nd"/>
+<DecisionVariable id="10" source="inferred">age<Value id="10" source="inferred">&lt; 24 months</Value>
+<DecisionVariableCode id="10" source="nd"/>
+<DecisionVariableDescription id="10" source="nd">
+<IntentionalVagueness id="10" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="10" source="nd">
+<Sensitivity id="10" source="nd"/>
+<Specificity id="10" source="nd"/>
+<PredictiveValue id="10" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="10" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="15" source="inferred">mother availability status<Value id="15" source="explicit">is not available / has died</Value>
+<DecisionVariableCode id="15" source="nd"/>
+<DecisionVariableDescription id="15" source="nd">
+<IntentionalVagueness id="15" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="15" source="nd">
+<Sensitivity id="15" source="nd"/>
+<Specificity id="15" source="nd"/>
+<PredictiveValue id="15" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="15" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="14" source="nd">
+<Value id="14" source="nd"/>
+<DecisionVariableCode id="14" source="nd"/>
+<DecisionVariableDescription id="14" source="nd">
+<IntentionalVagueness id="14" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="14" source="nd">
+<Sensitivity id="14" source="nd"/>
+<Specificity id="14" source="nd"/>
+<PredictiveValue id="14" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="14" source="nd"/>
+</DecisionVariable>
+<Action id="9" source="nd">
+<ActionActor id="9" source="nd"/>
+<ActionCode id="9" source="nd"/>
+<ActionVerb id="9" source="nd"/>
+<ActionDeonticTerm id="9" source="nd"/>
+<ActionVerbComplement id="9" source="nd"/>
+<ActionBenefit id="9" source="nd"/>
+<ActionRiskHarm id="9" source="nd"/>
+<ActionDescription id="9" source="nd">
+<IntentionalVagueness id="9" source="nd"/>
+</ActionDescription>
+<ActionCost id="9" source="nd"/>
+<ActionValue id="9" source="nd"/>
+<ActionType id="9" source="nd"/>
+</Action>
+<Reason id="9" source="nd"/>
+<EvidenceQuality id="9" source="nd">
+<EvidenceQualityDescription id="9" source="nd"/>
+<Disagreement id="9" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="9" source="nd">
+<RecommendationStrengthCode id="9" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="9" source="nd"/>
+<Logic id="9" source="nd"/>
+<Cost id="9" source="nd"/>
+<Linkage id="9" source="nd"/>
+<Reference id="9" source="nd"/>
+<Certainty id="9" source="nd"/>
+<Goal id="9" source="nd"/>
+</Conditional>
+<Conditional id="11" source="inferred">For the child: If the child is sick, even if the mother was tested negative during pregnancy or delivery<BenefitHarmAssessment id="11" source="nd"/>
+<DecisionVariable id="13" source="inferred">age<Value id="13" source="inferred">&lt; 24 months</Value>
+<DecisionVariableCode codeset="" id="13" source="nd"/>
+<DecisionVariableDescription id="13" source="nd">
+<IntentionalVagueness id="13" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="13" source="nd">
+<Sensitivity id="13" source="nd"/>
+<Specificity id="13" source="nd"/>
+<PredictiveValue id="13" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="13" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="17" source="inferred">sickness<Value id="17" source="inferred">present</Value>
+<DecisionVariableCode id="17" source="nd"/>
+<DecisionVariableDescription id="17" source="nd">
+<IntentionalVagueness id="17" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="17" source="nd">
+<Sensitivity id="17" source="nd"/>
+<Specificity id="17" source="nd"/>
+<PredictiveValue id="17" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="17" source="nd"/>
+</DecisionVariable>
+<Action id="11" source="inferred">Initiate a new HIV rapid test for the patient<ActionActor id="11" source="nd"/>
+<ActionCode id="11" source="nd"/>
+<ActionVerb id="11" source="nd"/>
+<ActionDeonticTerm id="11" source="nd"/>
+<ActionVerbComplement id="11" source="nd"/>
+<ActionBenefit id="11" source="nd"/>
+<ActionRiskHarm id="11" source="nd"/>
+<ActionDescription id="11" source="nd">
+<IntentionalVagueness id="11" source="nd"/>
+</ActionDescription>
+<ActionCost id="11" source="nd"/>
+<ActionValue id="11" source="nd"/>
+<ActionType id="11" source="nd"/>
+</Action>
+<Reason id="11" source="nd"/>
+<EvidenceQuality id="11" source="nd">
+<EvidenceQualityDescription id="11" source="nd"/>
+<Disagreement id="11" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="11" source="nd">
+<RecommendationStrengthCode id="11" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="11" source="nd"/>
+<Logic id="11" source="nd"/>
+<Cost id="11" source="nd"/>
+<Linkage id="11" source="nd"/>
+<Reference id="11" source="nd"/>
+<Certainty id="11" source="nd"/>
+<Goal id="11" source="nd"/>
+</Conditional>
+<Imperative id="3" source="explicit">Review mother’s health passport (page 6) for the latest HIV test result<BenefitHarmAssessment id="3" source="nd"/>
+<Scope id="3" source="nd">
+<ScopeCode id="3" source="nd"/>
+</Scope>
+<Directive id="3" source="explicit">Review mother’s health passport (page 6) for the latest HIV test result<DirectiveActor id="3" source="nd"/>
+<DirectiveCode id="3" source="nd"/>
+<DirectiveVerb id="3" source="nd"/>
+<DirectiveDeonticTerm id="3" source="nd"/>
+<DirectiveVerbComplement id="3" source="nd"/>
+<DirectiveBenefit id="3" source="nd"/>
+<DirectiveRiskHarm id="3" source="nd"/>
+<DirectiveDescription id="3" source="nd">
+<IntentionalVagueness id="3" source="nd"/>
+</DirectiveDescription>
+<DirectiveCost id="3" source="nd"/>
+<DirectiveValue id="3" source="nd"/>
+<DirectiveType id="3" source="nd"/>
+</Directive>
+<Reason id="3" source="nd"/>
+<EvidenceQuality id="3" source="nd">
+<EvidenceQualityDescription id="3" source="nd"/>
+<Disagreement id="3" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="3" source="nd">
+<RecommendationStrengthCode id="3" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="3" source="nd"/>
+<Logic id="3" source="nd"/>
+<Cost id="3" source="nd"/>
+<Linkage id="3" source="nd"/>
+<Reference id="3" source="nd"/>
+<Certainty id="3" source="nd"/>
+<Goal id="3" source="nd"/>
+</Imperative>
+<RecommendationNotes id="3" source="nd"/>
+</Recommendation>
+<Recommendation id="2" source="explicit">Monitoring of nutritional status<StatementOfFact id="2" source="nd"/>
+<Conditional id="2" source="explicit">Weight‐for‐height less than 80% -  Children 0‐14 years<BenefitHarmAssessment id="2" source="nd"/>
+<DecisionVariable id="2" source="inferred">age<Value id="2" source="inferred">&lt; 15 years (0 - 14 years)</Value>
+<DecisionVariableCode id="2" source="nd"/>
+<DecisionVariableDescription id="2" source="nd">
+<IntentionalVagueness id="2" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="2" source="nd">
+<Sensitivity id="2" source="nd"/>
+<Specificity id="2" source="nd"/>
+<PredictiveValue id="2" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="2" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="24" source="inferred">HIV care enrolment status<Value id="24" source="inferred">enrolled</Value>
+<DecisionVariableCode id="24" source="nd"/>
+<DecisionVariableDescription id="24" source="nd">
+<IntentionalVagueness id="24" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="24" source="nd">
+<Sensitivity id="24" source="nd"/>
+<Specificity id="24" source="nd"/>
+<PredictiveValue id="24" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="24" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="18" source="explicit">Weight‐for‐height<Value id="18" source="explicit">less than 80%</Value>
+<DecisionVariableCode id="18" source="nd"/>
+<DecisionVariableDescription id="18" source="nd">
+<IntentionalVagueness id="18" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="18" source="nd">
+<Sensitivity id="18" source="nd"/>
+<Specificity id="18" source="nd"/>
+<PredictiveValue id="18" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="18" source="nd"/>
+</DecisionVariable>
+<Action id="2" source="inferred">Investigate patient for TB<ActionActor id="2" source="nd"/>
+<ActionCode id="2" source="nd"/>
+<ActionVerb id="2" source="nd"/>
+<ActionDeonticTerm id="2" source="nd"/>
+<ActionVerbComplement id="2" source="nd"/>
+<ActionBenefit id="2" source="nd"/>
+<ActionRiskHarm id="2" source="nd"/>
+<ActionDescription id="2" source="nd">
+<IntentionalVagueness id="2" source="nd"/>
+</ActionDescription>
+<ActionCost id="2" source="nd"/>
+<ActionValue id="2" source="nd"/>
+<ActionType id="2" source="nd"/>
+</Action>
+<Action id="12" source="inferred">Refer / admit patient for Therapeutic Feeding<ActionActor id="12" source="nd"/>
+<ActionCode id="12" source="nd"/>
+<ActionVerb id="12" source="nd"/>
+<ActionDeonticTerm id="12" source="nd"/>
+<ActionVerbComplement id="12" source="nd"/>
+<ActionBenefit id="12" source="nd"/>
+<ActionRiskHarm id="12" source="nd"/>
+<ActionDescription id="12" source="nd">
+<IntentionalVagueness id="12" source="nd"/>
+</ActionDescription>
+<ActionCost id="12" source="nd"/>
+<ActionValue id="12" source="nd"/>
+<ActionType id="12" source="nd"/>
+</Action>
+<Reason id="2" source="nd"/>
+<EvidenceQuality id="2" source="nd">
+<EvidenceQualityDescription id="2" source="nd"/>
+<Disagreement id="2" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="2" source="nd">
+<RecommendationStrengthCode id="2" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="2" source="nd"/>
+<Logic id="2" source="nd"/>
+<Cost id="2" source="nd"/>
+<Linkage id="2" source="nd"/>
+<Reference id="2" source="nd"/>
+<Certainty id="2" source="nd"/>
+<Goal id="2" source="nd"/>
+</Conditional>
+<Conditional id="15" source="inferred">MUAC less than 12cm - Children 0‐14 years<BenefitHarmAssessment id="15" source="nd"/>
+<DecisionVariable id="22" source="inferred">age<Value id="22" source="inferred">&lt; 15 years (0 - 14 years)</Value>
+<DecisionVariableCode id="22" source="nd"/>
+<DecisionVariableDescription id="22" source="nd">
+<IntentionalVagueness id="22" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="22" source="nd">
+<Sensitivity id="22" source="nd"/>
+<Specificity id="22" source="nd"/>
+<PredictiveValue id="22" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="22" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="23" source="inferred">HIV care enrolment status<Value id="23" source="inferred">enrolled</Value>
+<DecisionVariableCode id="23" source="nd"/>
+<DecisionVariableDescription id="23" source="nd">
+<IntentionalVagueness id="23" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="23" source="nd">
+<Sensitivity id="23" source="nd"/>
+<Specificity id="23" source="nd"/>
+<PredictiveValue id="23" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="23" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="25" source="explicit">MUAC<Value id="25" source="explicit">less than 12cm</Value>
+<DecisionVariableCode codeset="" id="25" source="nd"/>
+<DecisionVariableDescription id="25" source="nd">
+<IntentionalVagueness id="25" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="25" source="nd">
+<Sensitivity id="25" source="nd"/>
+<Specificity id="25" source="nd"/>
+<PredictiveValue id="25" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="25" source="nd"/>
+</DecisionVariable>
+<Action id="16" source="inferred">Investigate patient for TB<ActionActor id="16" source="nd"/>
+<ActionCode id="16" source="nd"/>
+<ActionVerb id="16" source="nd"/>
+<ActionDeonticTerm id="16" source="nd"/>
+<ActionVerbComplement id="16" source="nd"/>
+<ActionBenefit id="16" source="nd"/>
+<ActionRiskHarm id="16" source="nd"/>
+<ActionDescription id="16" source="nd">
+<IntentionalVagueness id="16" source="nd"/>
+</ActionDescription>
+<ActionCost id="16" source="nd"/>
+<ActionValue id="16" source="nd"/>
+<ActionType id="16" source="nd"/>
+</Action>
+<Action id="17" source="inferred">Refer / admit patient for Therapeutic Feeding<ActionActor id="17" source="nd"/>
+<ActionCode id="17" source="nd"/>
+<ActionVerb id="17" source="nd"/>
+<ActionDeonticTerm id="17" source="nd"/>
+<ActionVerbComplement id="17" source="nd"/>
+<ActionBenefit id="17" source="nd"/>
+<ActionRiskHarm id="17" source="nd"/>
+<ActionDescription id="17" source="nd">
+<IntentionalVagueness id="17" source="nd"/>
+</ActionDescription>
+<ActionCost id="17" source="nd"/>
+<ActionValue id="17" source="nd"/>
+<ActionType id="17" source="nd"/>
+</Action>
+<Reason id="15" source="nd"/>
+<EvidenceQuality id="15" source="nd">
+<EvidenceQualityDescription id="15" source="nd"/>
+<Disagreement id="15" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="15" source="nd">
+<RecommendationStrengthCode id="15" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="15" source="nd"/>
+<Logic id="15" source="nd"/>
+<Cost id="15" source="nd"/>
+<Linkage id="15" source="nd"/>
+<Reference id="15" source="nd"/>
+<Certainty id="15" source="nd"/>
+<Goal id="15" source="nd"/>
+</Conditional>
+<Conditional id="14" source="explicit">Weight loss &gt;10%  -  Non‐pregnant adults 15 years and above<BenefitHarmAssessment id="14" source="nd"/>
+<DecisionVariable id="21" source="inferred">pregnancy status<Value id="21" source="inferred">not pregnant</Value>
+<DecisionVariableCode id="21" source="nd"/>
+<DecisionVariableDescription id="21" source="nd">
+<IntentionalVagueness id="21" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="21" source="nd">
+<Sensitivity id="21" source="nd"/>
+<Specificity id="21" source="nd"/>
+<PredictiveValue id="21" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="21" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="26" source="inferred">age<Value id="26" source="explicit">15 years and above</Value>
+<DecisionVariableCode id="26" source="nd"/>
+<DecisionVariableDescription id="26" source="nd">
+<IntentionalVagueness id="26" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="26" source="nd">
+<Sensitivity id="26" source="nd"/>
+<Specificity id="26" source="nd"/>
+<PredictiveValue id="26" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="26" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="27" source="inferred">HIV care enrolment status<Value id="27" source="inferred">enrolled</Value>
+<DecisionVariableCode id="27" source="nd"/>
+<DecisionVariableDescription id="27" source="nd">
+<IntentionalVagueness id="27" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="27" source="nd">
+<Sensitivity id="27" source="nd"/>
+<Specificity id="27" source="nd"/>
+<PredictiveValue id="27" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="27" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="30" source="explicit">Weight loss<Value id="30" source="explicit">&gt;10%</Value>
+<DecisionVariableCode id="30" source="nd"/>
+<DecisionVariableDescription id="30" source="nd">
+<IntentionalVagueness id="30" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="30" source="nd">
+<Sensitivity id="30" source="nd"/>
+<Specificity id="30" source="nd"/>
+<PredictiveValue id="30" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="30" source="nd"/>
+</DecisionVariable>
+<Action id="15" source="inferred">Investigate patient for TB<ActionActor id="15" source="nd"/>
+<ActionCode id="15" source="nd"/>
+<ActionVerb id="15" source="nd"/>
+<ActionDeonticTerm id="15" source="nd"/>
+<ActionVerbComplement id="15" source="nd"/>
+<ActionBenefit id="15" source="nd"/>
+<ActionRiskHarm id="15" source="nd"/>
+<ActionDescription id="15" source="nd">
+<IntentionalVagueness id="15" source="nd"/>
+</ActionDescription>
+<ActionCost id="15" source="nd"/>
+<ActionValue id="15" source="nd"/>
+<ActionType id="15" source="nd"/>
+</Action>
+<Reason id="14" source="nd"/>
+<EvidenceQuality id="14" source="nd">
+<EvidenceQualityDescription id="14" source="nd"/>
+<Disagreement id="14" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="14" source="nd">
+<RecommendationStrengthCode id="14" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="14" source="nd"/>
+<Logic id="14" source="nd"/>
+<Cost id="14" source="nd"/>
+<Linkage id="14" source="nd"/>
+<Reference id="14" source="nd"/>
+<Certainty id="14" source="nd"/>
+<Goal id="14" source="nd"/>
+</Conditional>
+<Conditional id="13" source="explicit">BMI under 18.5 -  Non‐pregnant adults 15 years and above<BenefitHarmAssessment id="13" source="nd"/>
+<DecisionVariable id="20" source="inferred">pregnancy status<Value id="20" source="inferred">not pregnant</Value>
+<DecisionVariableCode id="20" source="nd"/>
+<DecisionVariableDescription id="20" source="nd">
+<IntentionalVagueness id="20" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="20" source="nd">
+<Sensitivity id="20" source="nd"/>
+<Specificity id="20" source="nd"/>
+<PredictiveValue id="20" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="20" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="29" source="inferred">age<Value id="29" source="explicit">15 years and above</Value>
+<DecisionVariableCode id="29" source="nd"/>
+<DecisionVariableDescription id="29" source="nd">
+<IntentionalVagueness id="29" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="29" source="nd">
+<Sensitivity id="29" source="nd"/>
+<Specificity id="29" source="nd"/>
+<PredictiveValue id="29" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="29" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="28" source="inferred">HIV care enrolment status<Value id="28" source="inferred">enrolled</Value>
+<DecisionVariableCode id="28" source="nd"/>
+<DecisionVariableDescription id="28" source="nd">
+<IntentionalVagueness id="28" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="28" source="nd">
+<Sensitivity id="28" source="nd"/>
+<Specificity id="28" source="nd"/>
+<PredictiveValue id="28" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="28" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="31" source="explicit">BMI<Value id="31" source="explicit">under 18.5</Value>
+<DecisionVariableCode id="31" source="nd"/>
+<DecisionVariableDescription id="31" source="nd">
+<IntentionalVagueness id="31" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="31" source="nd">
+<Sensitivity id="31" source="nd"/>
+<Specificity id="31" source="nd"/>
+<PredictiveValue id="31" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="31" source="nd"/>
+</DecisionVariable>
+<Action id="14" source="inferred">Investigate patient for TB<ActionActor id="14" source="nd"/>
+<ActionCode id="14" source="nd"/>
+<ActionVerb id="14" source="nd"/>
+<ActionDeonticTerm id="14" source="nd"/>
+<ActionVerbComplement id="14" source="nd"/>
+<ActionBenefit id="14" source="nd"/>
+<ActionRiskHarm id="14" source="nd"/>
+<ActionDescription id="14" source="nd">
+<IntentionalVagueness id="14" source="nd"/>
+</ActionDescription>
+<ActionCost id="14" source="nd"/>
+<ActionValue id="14" source="nd"/>
+<ActionType id="14" source="nd"/>
+</Action>
+<Reason id="13" source="nd"/>
+<EvidenceQuality id="13" source="nd">
+<EvidenceQualityDescription id="13" source="nd"/>
+<Disagreement id="13" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="13" source="nd">
+<RecommendationStrengthCode id="13" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="13" source="nd"/>
+<Logic id="13" source="nd"/>
+<Cost id="13" source="nd"/>
+<Linkage id="13" source="nd"/>
+<Reference id="13" source="nd"/>
+<Certainty id="13" source="nd"/>
+<Goal id="13" source="nd"/>
+</Conditional>
+<Conditional id="12" source="explicit">BMI under 17 -   Non‐pregnant adults 15 years and abov<BenefitHarmAssessment id="12" source="nd"/>
+<DecisionVariable id="19" source="inferred">pregnancy status<Value id="19" source="inferred">not pregnant</Value>
+<DecisionVariableCode id="19" source="nd"/>
+<DecisionVariableDescription id="19" source="nd">
+<IntentionalVagueness id="19" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="19" source="nd">
+<Sensitivity id="19" source="nd"/>
+<Specificity id="19" source="nd"/>
+<PredictiveValue id="19" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="19" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="38" source="inferred">age<Value id="38" source="explicit">15 years and above</Value>
+<DecisionVariableCode id="38" source="nd"/>
+<DecisionVariableDescription id="38" source="nd">
+<IntentionalVagueness id="38" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="38" source="nd">
+<Sensitivity id="38" source="nd"/>
+<Specificity id="38" source="nd"/>
+<PredictiveValue id="38" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="38" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="37" source="inferred">HIV care enrolment status<Value id="37" source="inferred">enrolled</Value>
+<DecisionVariableCode id="37" source="nd"/>
+<DecisionVariableDescription id="37" source="nd">
+<IntentionalVagueness id="37" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="37" source="nd">
+<Sensitivity id="37" source="nd"/>
+<Specificity id="37" source="nd"/>
+<PredictiveValue id="37" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="37" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="39" source="explicit">BMI<Value id="39" source="explicit">under 17</Value>
+<DecisionVariableCode id="39" source="nd"/>
+<DecisionVariableDescription id="39" source="nd">
+<IntentionalVagueness id="39" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="39" source="nd">
+<Sensitivity id="39" source="nd"/>
+<Specificity id="39" source="nd"/>
+<PredictiveValue id="39" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="39" source="nd"/>
+</DecisionVariable>
+<Action id="13" source="inferred">Start patient on TF for ‘moderate malnutrition’<ActionActor id="13" source="nd"/>
+<ActionCode id="13" source="nd"/>
+<ActionVerb id="13" source="nd"/>
+<ActionDeonticTerm id="13" source="nd"/>
+<ActionVerbComplement id="13" source="nd"/>
+<ActionBenefit id="13" source="nd"/>
+<ActionRiskHarm id="13" source="nd"/>
+<ActionDescription id="13" source="nd">
+<IntentionalVagueness id="13" source="nd"/>
+</ActionDescription>
+<ActionCost id="13" source="nd"/>
+<ActionValue id="13" source="nd"/>
+<ActionType id="13" source="nd"/>
+</Action>
+<Reason id="12" source="nd"/>
+<EvidenceQuality id="12" source="nd">
+<EvidenceQualityDescription id="12" source="nd"/>
+<Disagreement id="12" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="12" source="nd">
+<RecommendationStrengthCode id="12" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="12" source="nd"/>
+<Logic id="12" source="nd"/>
+<Cost id="12" source="nd"/>
+<Linkage id="12" source="nd"/>
+<Reference id="12" source="nd"/>
+<Certainty id="12" source="nd"/>
+<Goal id="12" source="nd"/>
+</Conditional>
+<Conditional id="16" source="inferred">BMI under 16 - Non‐pregnant adults 15 years and above<BenefitHarmAssessment id="16" source="nd"/>
+<DecisionVariable id="32" source="inferred">age<Value id="32" source="explicit">15 years and above</Value>
+<DecisionVariableCode id="32" source="nd"/>
+<DecisionVariableDescription id="32" source="nd">
+<IntentionalVagueness id="32" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="32" source="nd">
+<Sensitivity id="32" source="nd"/>
+<Specificity id="32" source="nd"/>
+<PredictiveValue id="32" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="32" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="42" source="inferred">pregnancy status<Value id="42" source="inferred">not pregnant</Value>
+<DecisionVariableCode id="42" source="nd"/>
+<DecisionVariableDescription id="42" source="nd">
+<IntentionalVagueness id="42" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="42" source="nd">
+<Sensitivity id="42" source="nd"/>
+<Specificity id="42" source="nd"/>
+<PredictiveValue id="42" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="42" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="41" source="inferred">HIV care enrolment status<Value id="41" source="inferred">enrolled</Value>
+<DecisionVariableCode id="41" source="nd"/>
+<DecisionVariableDescription id="41" source="nd">
+<IntentionalVagueness id="41" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="41" source="nd">
+<Sensitivity id="41" source="nd"/>
+<Specificity id="41" source="nd"/>
+<PredictiveValue id="41" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="41" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="40" source="explicit">BMI<Value id="40" source="explicit">under 16</Value>
+<DecisionVariableCode id="40" source="nd"/>
+<DecisionVariableDescription id="40" source="nd">
+<IntentionalVagueness id="40" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="40" source="nd">
+<Sensitivity id="40" source="nd"/>
+<Specificity id="40" source="nd"/>
+<PredictiveValue id="40" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="40" source="nd"/>
+</DecisionVariable>
+<Action id="18" source="inferred">Start patient on TF for ‘severe malnutrition’<ActionActor id="18" source="nd"/>
+<ActionCode id="18" source="nd"/>
+<ActionVerb id="18" source="nd"/>
+<ActionDeonticTerm id="18" source="nd"/>
+<ActionVerbComplement id="18" source="nd"/>
+<ActionBenefit id="18" source="nd"/>
+<ActionRiskHarm id="18" source="nd"/>
+<ActionDescription id="18" source="nd">
+<IntentionalVagueness id="18" source="nd"/>
+</ActionDescription>
+<ActionCost id="18" source="nd"/>
+<ActionValue id="18" source="nd"/>
+<ActionType id="18" source="nd"/>
+</Action>
+<Reason id="16" source="nd"/>
+<EvidenceQuality id="16" source="nd">
+<EvidenceQualityDescription id="16" source="nd"/>
+<Disagreement id="16" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="16" source="nd">
+<RecommendationStrengthCode id="16" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="16" source="nd"/>
+<Logic id="16" source="nd"/>
+<Cost id="16" source="nd"/>
+<Linkage id="16" source="nd"/>
+<Reference id="16" source="nd"/>
+<Certainty id="16" source="nd"/>
+<Goal id="16" source="nd"/>
+</Conditional>
+<Conditional id="20" source="inferred">Universally eligible for ART -  Pregnant women<BenefitHarmAssessment id="20" source="nd"/>
+<DecisionVariable id="36" source="inferred">pregnancy status<Value id="36" source="inferred">pregnant</Value>
+<DecisionVariableCode id="36" source="nd"/>
+<DecisionVariableDescription id="36" source="nd">
+<IntentionalVagueness id="36" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="36" source="nd">
+<Sensitivity id="36" source="nd"/>
+<Specificity id="36" source="nd"/>
+<PredictiveValue id="36" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="36" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="43" source="inferred">HIV test result<Value id="43" source="inferred">positive</Value>
+<DecisionVariableCode id="43" source="nd"/>
+<DecisionVariableDescription id="43" source="nd">
+<IntentionalVagueness id="43" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="43" source="nd">
+<Sensitivity id="43" source="nd"/>
+<Specificity id="43" source="nd"/>
+<PredictiveValue id="43" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="43" source="nd"/>
+</DecisionVariable>
+<Action id="22" source="inferred">patient is eligible for ART<ActionActor id="22" source="nd"/>
+<ActionCode id="22" source="nd"/>
+<ActionVerb id="22" source="nd"/>
+<ActionDeonticTerm id="22" source="nd"/>
+<ActionVerbComplement id="22" source="nd"/>
+<ActionBenefit id="22" source="nd"/>
+<ActionRiskHarm id="22" source="nd"/>
+<ActionDescription id="22" source="nd">
+<IntentionalVagueness id="22" source="nd"/>
+</ActionDescription>
+<ActionCost id="22" source="nd"/>
+<ActionValue id="22" source="nd"/>
+<ActionType id="22" source="nd"/>
+</Action>
+<Reason id="20" source="nd"/>
+<EvidenceQuality id="20" source="nd">
+<EvidenceQualityDescription id="20" source="nd"/>
+<Disagreement id="20" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="20" source="nd">
+<RecommendationStrengthCode id="20" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="20" source="nd"/>
+<Logic id="20" source="nd"/>
+<Cost id="20" source="nd"/>
+<Linkage id="20" source="nd"/>
+<Reference id="20" source="nd"/>
+<Certainty id="20" source="nd"/>
+<Goal id="20" source="nd"/>
+</Conditional>
+<Conditional id="19" source="inferred">Universally eligible for ART -  Lactating women<BenefitHarmAssessment id="19" source="nd"/>
+<DecisionVariable id="35" source="inferred">HIV test result<Value id="35" source="inferred">positive</Value>
+<DecisionVariableCode codeset="" id="35" source="nd"/>
+<DecisionVariableDescription id="35" source="nd">
+<IntentionalVagueness id="35" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="35" source="nd">
+<Sensitivity id="35" source="nd"/>
+<Specificity id="35" source="nd"/>
+<PredictiveValue id="35" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="35" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="45" source="inferred">lactating status<Value id="45" source="inferred">lactating</Value>
+<DecisionVariableCode id="45" source="nd"/>
+<DecisionVariableDescription id="45" source="nd">
+<IntentionalVagueness id="45" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="45" source="nd">
+<Sensitivity id="45" source="nd"/>
+<Specificity id="45" source="nd"/>
+<PredictiveValue id="45" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="45" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="44" source="nd">
+<Value id="44" source="nd"/>
+<DecisionVariableCode id="44" source="nd"/>
+<DecisionVariableDescription id="44" source="nd">
+<IntentionalVagueness id="44" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="44" source="nd">
+<Sensitivity id="44" source="nd"/>
+<Specificity id="44" source="nd"/>
+<PredictiveValue id="44" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="44" source="nd"/>
+</DecisionVariable>
+<Action id="21" source="inferred">Patient is eligible for ART<ActionActor id="21" source="nd"/>
+<ActionCode id="21" source="nd"/>
+<ActionVerb id="21" source="nd"/>
+<ActionDeonticTerm id="21" source="nd"/>
+<ActionVerbComplement id="21" source="nd"/>
+<ActionBenefit id="21" source="nd"/>
+<ActionRiskHarm id="21" source="nd"/>
+<ActionDescription id="21" source="nd">
+<IntentionalVagueness id="21" source="nd"/>
+</ActionDescription>
+<ActionCost id="21" source="nd"/>
+<ActionValue id="21" source="nd"/>
+<ActionType id="21" source="nd"/>
+</Action>
+<Reason id="19" source="nd"/>
+<EvidenceQuality id="19" source="nd">
+<EvidenceQualityDescription id="19" source="nd"/>
+<Disagreement id="19" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="19" source="nd">
+<RecommendationStrengthCode id="19" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="19" source="nd"/>
+<Logic id="19" source="nd"/>
+<Cost id="19" source="nd"/>
+<Linkage id="19" source="nd"/>
+<Reference id="19" source="nd"/>
+<Certainty id="19" source="nd"/>
+<Goal id="19" source="nd"/>
+</Conditional>
+<Conditional id="18" source="inferred">MUAC less than 22cm -  Pregnant women<BenefitHarmAssessment id="18" source="nd"/>
+<DecisionVariable id="34" source="inferred">pregnancy status<Value id="34" source="inferred">pregnant</Value>
+<DecisionVariableCode id="34" source="nd"/>
+<DecisionVariableDescription id="34" source="nd">
+<IntentionalVagueness id="34" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="34" source="nd">
+<Sensitivity id="34" source="nd"/>
+<Specificity id="34" source="nd"/>
+<PredictiveValue id="34" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="34" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="47" source="inferred">HIV test result<Value id="47" source="inferred">positive</Value>
+<DecisionVariableCode id="47" source="nd"/>
+<DecisionVariableDescription id="47" source="nd">
+<IntentionalVagueness id="47" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="47" source="nd">
+<Sensitivity id="47" source="nd"/>
+<Specificity id="47" source="nd"/>
+<PredictiveValue id="47" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="47" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="46" source="explicit">MUAC<Value id="46" source="explicit">less than 22cm</Value>
+<DecisionVariableCode id="46" source="nd"/>
+<DecisionVariableDescription id="46" source="nd">
+<IntentionalVagueness id="46" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="46" source="nd">
+<Sensitivity id="46" source="nd"/>
+<Specificity id="46" source="nd"/>
+<PredictiveValue id="46" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="46" source="nd"/>
+</DecisionVariable>
+<Action id="20" source="inferred">start patient on TF for ‘moderate malnutrition’<ActionActor id="20" source="nd"/>
+<ActionCode id="20" source="nd"/>
+<ActionVerb id="20" source="nd"/>
+<ActionDeonticTerm id="20" source="nd"/>
+<ActionVerbComplement id="20" source="nd"/>
+<ActionBenefit id="20" source="nd"/>
+<ActionRiskHarm id="20" source="nd"/>
+<ActionDescription id="20" source="nd">
+<IntentionalVagueness id="20" source="nd"/>
+</ActionDescription>
+<ActionCost id="20" source="nd"/>
+<ActionValue id="20" source="nd"/>
+<ActionType id="20" source="nd"/>
+</Action>
+<Reason id="18" source="nd"/>
+<EvidenceQuality id="18" source="nd">
+<EvidenceQualityDescription id="18" source="nd"/>
+<Disagreement id="18" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="18" source="nd">
+<RecommendationStrengthCode id="18" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="18" source="nd"/>
+<Logic id="18" source="nd"/>
+<Cost id="18" source="nd"/>
+<Linkage id="18" source="nd"/>
+<Reference id="18" source="nd"/>
+<Certainty id="18" source="nd"/>
+<Goal id="18" source="nd"/>
+</Conditional>
+<Conditional id="22" source="inferred">MUAC less than 22cm -  Lactating women<BenefitHarmAssessment id="22" source="nd"/>
+<DecisionVariable id="49" source="inferred">Lactating status<Value id="49" source="inferred">lactating</Value>
+<DecisionVariableCode id="49" source="nd"/>
+<DecisionVariableDescription id="49" source="nd">
+<IntentionalVagueness id="49" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="49" source="nd">
+<Sensitivity id="49" source="nd"/>
+<Specificity id="49" source="nd"/>
+<PredictiveValue id="49" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="49" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="50" source="inferred">HIV test result<Value id="50" source="inferred">positive</Value>
+<DecisionVariableCode id="50" source="nd"/>
+<DecisionVariableDescription id="50" source="nd">
+<IntentionalVagueness id="50" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="50" source="nd">
+<Sensitivity id="50" source="nd"/>
+<Specificity id="50" source="nd"/>
+<PredictiveValue id="50" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="50" source="nd"/>
+</DecisionVariable>
+<Action id="24" source="inferred">start patient on TF for ‘moderate malnutrition’<ActionActor id="24" source="nd"/>
+<ActionCode id="24" source="nd"/>
+<ActionVerb id="24" source="nd"/>
+<ActionDeonticTerm id="24" source="nd"/>
+<ActionVerbComplement id="24" source="nd"/>
+<ActionBenefit id="24" source="nd"/>
+<ActionRiskHarm id="24" source="nd"/>
+<ActionDescription id="24" source="nd">
+<IntentionalVagueness id="24" source="nd"/>
+</ActionDescription>
+<ActionCost id="24" source="nd"/>
+<ActionValue id="24" source="nd"/>
+<ActionType id="24" source="nd"/>
+</Action>
+<Reason id="22" source="nd"/>
+<EvidenceQuality id="22" source="nd">
+<EvidenceQualityDescription id="22" source="nd"/>
+<Disagreement id="22" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="22" source="nd">
+<RecommendationStrengthCode id="22" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="22" source="nd"/>
+<Logic id="22" source="nd"/>
+<Cost id="22" source="nd"/>
+<Linkage id="22" source="nd"/>
+<Reference id="22" source="nd"/>
+<Certainty id="22" source="nd"/>
+<Goal id="22" source="nd"/>
+</Conditional>
+<Conditional id="21" source="inferred">MUAC less than 19cm - Pregnant  women<BenefitHarmAssessment id="21" source="nd"/>
+<DecisionVariable id="48" source="inferred">Pregnancy status<Value id="48" source="nd"/>
+<DecisionVariableCode id="48" source="nd"/>
+<DecisionVariableDescription id="48" source="nd">
+<IntentionalVagueness id="48" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="48" source="nd">
+<Sensitivity id="48" source="nd"/>
+<Specificity id="48" source="nd"/>
+<PredictiveValue id="48" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="48" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="52" source="inferred">HIV test result<Value id="52" source="inferred">positive</Value>
+<DecisionVariableCode id="52" source="nd"/>
+<DecisionVariableDescription id="52" source="nd">
+<IntentionalVagueness id="52" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="52" source="nd">
+<Sensitivity id="52" source="nd"/>
+<Specificity id="52" source="nd"/>
+<PredictiveValue id="52" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="52" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="53" source="explicit">MUAC<Value id="53" source="explicit">less than 19cm</Value>
+<DecisionVariableCode id="53" source="nd"/>
+<DecisionVariableDescription id="53" source="nd">
+<IntentionalVagueness id="53" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="53" source="nd">
+<Sensitivity id="53" source="nd"/>
+<Specificity id="53" source="nd"/>
+<PredictiveValue id="53" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="53" source="nd"/>
+</DecisionVariable>
+<Action id="23" source="inferred">start patient on TF for ‘severe malnutrition’<ActionActor id="23" source="nd"/>
+<ActionCode id="23" source="nd"/>
+<ActionVerb id="23" source="nd"/>
+<ActionDeonticTerm id="23" source="nd"/>
+<ActionVerbComplement id="23" source="nd"/>
+<ActionBenefit id="23" source="nd"/>
+<ActionRiskHarm id="23" source="nd"/>
+<ActionDescription id="23" source="nd">
+<IntentionalVagueness id="23" source="nd"/>
+</ActionDescription>
+<ActionCost id="23" source="nd"/>
+<ActionValue id="23" source="nd"/>
+<ActionType id="23" source="nd"/>
+</Action>
+<Reason id="21" source="nd"/>
+<EvidenceQuality id="21" source="nd">
+<EvidenceQualityDescription id="21" source="nd"/>
+<Disagreement id="21" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="21" source="nd">
+<RecommendationStrengthCode id="21" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="21" source="nd"/>
+<Logic id="21" source="nd"/>
+<Cost id="21" source="nd"/>
+<Linkage id="21" source="nd"/>
+<Reference id="21" source="nd"/>
+<Certainty id="21" source="nd"/>
+<Goal id="21" source="nd"/>
+</Conditional>
+<Conditional id="17" source="inferred">MUAC less than 19cm -  Lactating women<BenefitHarmAssessment id="17" source="nd"/>
+<DecisionVariable id="33" source="inferred">Lactating status<Value id="33" source="inferred">lactating</Value>
+<DecisionVariableCode id="33" source="nd"/>
+<DecisionVariableDescription id="33" source="nd">
+<IntentionalVagueness id="33" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="33" source="nd">
+<Sensitivity id="33" source="nd"/>
+<Specificity id="33" source="nd"/>
+<PredictiveValue id="33" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="33" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="55" source="inferred">HIV test result<Value id="55" source="inferred">positive</Value>
+<DecisionVariableCode id="55" source="nd"/>
+<DecisionVariableDescription id="55" source="nd">
+<IntentionalVagueness id="55" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="55" source="nd">
+<Sensitivity id="55" source="nd"/>
+<Specificity id="55" source="nd"/>
+<PredictiveValue id="55" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="55" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="54" source="explicit">MUAC<Value id="54" source="inferred">less than 19cm</Value>
+<DecisionVariableCode id="54" source="nd"/>
+<DecisionVariableDescription id="54" source="nd">
+<IntentionalVagueness id="54" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="54" source="nd">
+<Sensitivity id="54" source="nd"/>
+<Specificity id="54" source="nd"/>
+<PredictiveValue id="54" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="54" source="nd"/>
+</DecisionVariable>
+<Action id="19" source="inferred">start patient on TF for ‘severe malnutrition’<ActionActor id="19" source="nd"/>
+<ActionCode id="19" source="nd"/>
+<ActionVerb id="19" source="nd"/>
+<ActionDeonticTerm id="19" source="nd"/>
+<ActionVerbComplement id="19" source="nd"/>
+<ActionBenefit id="19" source="nd"/>
+<ActionRiskHarm id="19" source="nd"/>
+<ActionDescription id="19" source="nd">
+<IntentionalVagueness id="19" source="nd"/>
+</ActionDescription>
+<ActionCost id="19" source="nd"/>
+<ActionValue id="19" source="nd"/>
+<ActionType id="19" source="nd"/>
+</Action>
+<Reason id="17" source="nd"/>
+<EvidenceQuality id="17" source="nd">
+<EvidenceQualityDescription id="17" source="nd"/>
+<Disagreement id="17" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="17" source="nd">
+<RecommendationStrengthCode id="17" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="17" source="nd"/>
+<Logic id="17" source="nd"/>
+<Cost id="17" source="nd"/>
+<Linkage id="17" source="nd"/>
+<Reference id="17" source="nd"/>
+<Certainty id="17" source="nd"/>
+<Goal id="17" source="nd"/>
+</Conditional>
+<Conditional id="30" source="inferred">Use MUAC instead of BMI - Pregnant women<BenefitHarmAssessment id="30" source="nd"/>
+<DecisionVariable id="63" source="inferred">Pregnancy status<Value id="63" source="inferred">pregnant</Value>
+<DecisionVariableCode codeset="" id="63" source="nd"/>
+<DecisionVariableDescription id="63" source="nd">
+<IntentionalVagueness id="63" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="63" source="nd">
+<Sensitivity id="63" source="nd"/>
+<Specificity id="63" source="nd"/>
+<PredictiveValue id="63" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="63" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="64" source="inferred">HIV test result<Value id="64" source="inferred">positive</Value>
+<DecisionVariableCode id="64" source="nd"/>
+<DecisionVariableDescription id="64" source="nd">
+<IntentionalVagueness id="64" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="64" source="nd">
+<Sensitivity id="64" source="nd"/>
+<Specificity id="64" source="nd"/>
+<PredictiveValue id="64" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="64" source="nd"/>
+</DecisionVariable>
+<Action id="32" source="inferred">Use MUAC instead of BMI on patient<ActionActor id="32" source="nd"/>
+<ActionCode id="32" source="nd"/>
+<ActionVerb id="32" source="nd"/>
+<ActionDeonticTerm id="32" source="nd"/>
+<ActionVerbComplement id="32" source="nd"/>
+<ActionBenefit id="32" source="nd"/>
+<ActionRiskHarm id="32" source="nd"/>
+<ActionDescription id="32" source="nd">
+<IntentionalVagueness id="32" source="nd"/>
+</ActionDescription>
+<ActionCost id="32" source="nd"/>
+<ActionValue id="32" source="nd"/>
+<ActionType id="32" source="nd"/>
+</Action>
+<Reason id="30" source="nd"/>
+<EvidenceQuality id="30" source="nd">
+<EvidenceQualityDescription id="30" source="nd"/>
+<Disagreement id="30" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="30" source="nd">
+<RecommendationStrengthCode id="30" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="30" source="nd"/>
+<Logic id="30" source="nd"/>
+<Cost id="30" source="nd"/>
+<Linkage id="30" source="nd"/>
+<Reference id="30" source="nd"/>
+<Certainty id="30" source="nd"/>
+<Goal id="30" source="nd"/>
+</Conditional>
+<Conditional id="29" source="inferred">Use MUAC instead of BMI -  Lactating women<BenefitHarmAssessment id="29" source="nd"/>
+<DecisionVariable id="62" source="inferred">Lactating status<Value id="62" source="inferred">lactating</Value>
+<DecisionVariableCode id="62" source="nd"/>
+<DecisionVariableDescription id="62" source="nd">
+<IntentionalVagueness id="62" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="62" source="nd">
+<Sensitivity id="62" source="nd"/>
+<Specificity id="62" source="nd"/>
+<PredictiveValue id="62" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="62" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="65" source="inferred">HIV test result<Value id="65" source="inferred">positive</Value>
+<DecisionVariableCode id="65" source="nd"/>
+<DecisionVariableDescription id="65" source="nd">
+<IntentionalVagueness id="65" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="65" source="nd">
+<Sensitivity id="65" source="nd"/>
+<Specificity id="65" source="nd"/>
+<PredictiveValue id="65" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="65" source="nd"/>
+</DecisionVariable>
+<Action id="31" source="inferred">Use MUAC instead of BMI on patient<ActionActor id="31" source="nd"/>
+<ActionCode id="31" source="nd"/>
+<ActionVerb id="31" source="nd"/>
+<ActionDeonticTerm id="31" source="nd"/>
+<ActionVerbComplement id="31" source="nd"/>
+<ActionBenefit id="31" source="nd"/>
+<ActionRiskHarm id="31" source="nd"/>
+<ActionDescription id="31" source="nd">
+<IntentionalVagueness id="31" source="nd"/>
+</ActionDescription>
+<ActionCost id="31" source="nd"/>
+<ActionValue id="31" source="nd"/>
+<ActionType id="31" source="nd"/>
+</Action>
+<Reason id="29" source="nd"/>
+<EvidenceQuality id="29" source="nd">
+<EvidenceQualityDescription id="29" source="nd"/>
+<Disagreement id="29" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="29" source="nd">
+<RecommendationStrengthCode id="29" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="29" source="nd"/>
+<Logic id="29" source="nd"/>
+<Cost id="29" source="nd"/>
+<Linkage id="29" source="nd"/>
+<Reference id="29" source="nd"/>
+<Certainty id="29" source="nd"/>
+<Goal id="29" source="nd"/>
+</Conditional>
+<Imperative id="2" source="nd">
+<BenefitHarmAssessment id="2" source="nd"/>
+<Scope id="2" source="nd">
+<ScopeCode id="2" source="nd"/>
+</Scope>
+<Directive id="2" source="nd">
+<DirectiveActor id="2" source="nd"/>
+<DirectiveCode id="2" source="nd"/>
+<DirectiveVerb id="2" source="nd"/>
+<DirectiveDeonticTerm id="2" source="nd"/>
+<DirectiveVerbComplement id="2" source="nd"/>
+<DirectiveBenefit id="2" source="nd"/>
+<DirectiveRiskHarm id="2" source="nd"/>
+<DirectiveDescription id="2" source="nd">
+<IntentionalVagueness id="2" source="nd"/>
+</DirectiveDescription>
+<DirectiveCost id="2" source="nd"/>
+<DirectiveValue id="2" source="nd"/>
+<DirectiveType id="2" source="nd"/>
+</Directive>
+<Reason id="2" source="nd"/>
+<EvidenceQuality id="2" source="nd">
+<EvidenceQualityDescription id="2" source="nd"/>
+<Disagreement id="2" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="2" source="nd">
+<RecommendationStrengthCode id="2" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="2" source="nd"/>
+<Logic id="2" source="nd"/>
+<Cost id="2" source="nd"/>
+<Linkage id="2" source="nd"/>
+<Reference id="2" source="nd"/>
+<Certainty id="2" source="nd"/>
+<Goal id="2" source="nd"/>
+</Imperative>
+<RecommendationNotes id="2" source="nd"/>
+</Recommendation>
+<Recommendation id="7" source="explicit">Standard clinical monitoring checklist<StatementOfFact id="7" source="nd"/>
+<Conditional id="34" source="nd">
+<BenefitHarmAssessment id="34" source="nd"/>
+<DecisionVariable id="69" source="nd">
+<Value id="69" source="nd"/>
+<DecisionVariableCode id="69" source="nd"/>
+<DecisionVariableDescription id="69" source="nd">
+<IntentionalVagueness id="69" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="69" source="nd">
+<Sensitivity id="69" source="nd"/>
+<Specificity id="69" source="nd"/>
+<PredictiveValue id="69" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="69" source="nd"/>
+</DecisionVariable>
+<Action id="36" source="nd">
+<ActionActor id="36" source="nd"/>
+<ActionCode id="36" source="nd"/>
+<ActionVerb id="36" source="nd"/>
+<ActionDeonticTerm id="36" source="nd"/>
+<ActionVerbComplement id="36" source="nd"/>
+<ActionBenefit id="36" source="nd"/>
+<ActionRiskHarm id="36" source="nd"/>
+<ActionDescription id="36" source="nd">
+<IntentionalVagueness id="36" source="nd"/>
+</ActionDescription>
+<ActionCost id="36" source="nd"/>
+<ActionValue id="36" source="nd"/>
+<ActionType id="36" source="nd"/>
+</Action>
+<Reason id="34" source="nd"/>
+<EvidenceQuality id="34" source="nd">
+<EvidenceQualityDescription id="34" source="nd"/>
+<Disagreement id="34" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="34" source="nd">
+<RecommendationStrengthCode id="34" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="34" source="nd"/>
+<Logic id="34" source="nd"/>
+<Cost id="34" source="nd"/>
+<Linkage id="34" source="nd"/>
+<Reference id="34" source="nd"/>
+<Certainty id="34" source="nd"/>
+<Goal id="34" source="nd"/>
+</Conditional>
+<Imperative id="12" source="explicit">Use the summary clinical monitoring checklist to actively screen every HIV patient (exposed child, pre‐ART and ART) for clinical symptoms at every visit<BenefitHarmAssessment id="12" source="nd"/>
+<Scope id="12" source="nd">
+<ScopeCode id="12" source="nd"/>
+</Scope>
+<Directive id="14" source="explicit">Use the summary clinical monitoring checklist to actively screen every HIV patient (exposed child, pre‐ART and ART) for clinical symptoms at every visit<DirectiveActor id="14" source="nd"/>
+<DirectiveCode id="14" source="nd"/>
+<DirectiveVerb id="14" source="nd"/>
+<DirectiveDeonticTerm id="14" source="nd"/>
+<DirectiveVerbComplement id="14" source="nd"/>
+<DirectiveBenefit id="14" source="nd"/>
+<DirectiveRiskHarm id="14" source="nd"/>
+<DirectiveDescription id="14" source="nd">
+<IntentionalVagueness id="14" source="nd"/>
+</DirectiveDescription>
+<DirectiveCost id="14" source="nd"/>
+<DirectiveValue id="14" source="nd"/>
+<DirectiveType id="14" source="nd"/>
+</Directive>
+<Reason id="12" source="nd"/>
+<EvidenceQuality id="12" source="nd">
+<EvidenceQualityDescription id="12" source="nd"/>
+<Disagreement id="12" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="12" source="nd">
+<RecommendationStrengthCode id="12" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="12" source="nd"/>
+<Logic id="12" source="nd"/>
+<Cost id="12" source="nd"/>
+<Linkage id="12" source="nd"/>
+<Reference id="12" source="nd"/>
+<Certainty id="12" source="nd"/>
+<Goal id="12" source="nd"/>
+</Imperative>
+<RecommendationNotes id="7" source="nd"/>
+</Recommendation>
+<Recommendation id="6" source="inferred">CD4 monitoring for ART eligibility -  for patients with confirmed HIV infection<StatementOfFact id="6" source="nd"/>
+<Conditional id="33" source="explicit">CD4 monitoring of patients in HIV Care Clinic follow‐up -  with confirmed HIV infection<BenefitHarmAssessment id="33" source="nd"/>
+<DecisionVariable id="68" source="inferred">HIV test result<Value id="68" source="inferred">positive</Value>
+<DecisionVariableCode codeset="" id="68" source="nd"/>
+<DecisionVariableDescription id="68" source="nd">
+<IntentionalVagueness id="68" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="68" source="nd">
+<Sensitivity id="68" source="nd"/>
+<Specificity id="68" source="nd"/>
+<PredictiveValue id="68" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="68" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="71" source="inferred">ART eligibility<Value id="71" source="inferred">not eligible</Value>
+<DecisionVariableCode id="71" source="nd"/>
+<DecisionVariableDescription id="71" source="nd">
+<IntentionalVagueness id="71" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="71" source="nd">
+<Sensitivity id="71" source="nd"/>
+<Specificity id="71" source="nd"/>
+<PredictiveValue id="71" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="71" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="11" source="inferred">2nd 3‐monthly visit<Value id="11" source="inferred">Yes</Value>
+<DecisionVariableCode id="11" source="nd"/>
+<DecisionVariableDescription id="11" source="nd">
+<IntentionalVagueness id="11" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="11" source="nd">
+<Sensitivity id="11" source="nd"/>
+<Specificity id="11" source="nd"/>
+<PredictiveValue id="11" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="11" source="nd"/>
+</DecisionVariable>
+<Action id="35" source="inferred">do routine CD4 count for patient<ActionActor id="35" source="nd"/>
+<ActionCode id="35" source="nd"/>
+<ActionVerb id="35" source="nd"/>
+<ActionDeonticTerm id="35" source="nd"/>
+<ActionVerbComplement id="35" source="nd"/>
+<ActionBenefit id="35" source="nd"/>
+<ActionRiskHarm id="35" source="nd"/>
+<ActionDescription id="35" source="nd">
+<IntentionalVagueness id="35" source="nd"/>
+</ActionDescription>
+<ActionCost id="35" source="nd"/>
+<ActionValue id="35" source="nd"/>
+<ActionType id="35" source="nd"/>
+</Action>
+<Reason id="33" source="nd"/>
+<EvidenceQuality id="33" source="nd">
+<EvidenceQualityDescription id="33" source="nd"/>
+<Disagreement id="33" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="33" source="nd">
+<RecommendationStrengthCode id="33" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="33" source="nd"/>
+<Logic id="33" source="nd"/>
+<Cost id="33" source="nd"/>
+<Linkage id="33" source="nd"/>
+<Reference id="33" source="nd"/>
+<Certainty id="33" source="nd"/>
+<Goal id="33" source="nd"/>
+</Conditional>
+<Conditional id="35" source="inferred">CD4 monitoring of patients in HIV Care Clinic follow‐up -   Stopping CD4 monitoring<BenefitHarmAssessment id="35" source="nd"/>
+<DecisionVariable id="72" source="inferred">ART eligibility<Value id="72" source="inferred">eligible</Value>
+<DecisionVariableCode id="72" source="nd"/>
+<DecisionVariableDescription id="72" source="nd">
+<IntentionalVagueness id="72" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="72" source="nd">
+<Sensitivity id="72" source="nd"/>
+<Specificity id="72" source="nd"/>
+<PredictiveValue id="72" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="72" source="nd"/>
+</DecisionVariable>
+<Action id="37" source="explicit">Stop CD4 monitoring<ActionActor id="37" source="nd"/>
+<ActionCode id="37" source="nd"/>
+<ActionVerb id="37" source="nd"/>
+<ActionDeonticTerm id="37" source="nd"/>
+<ActionVerbComplement id="37" source="nd"/>
+<ActionBenefit id="37" source="nd"/>
+<ActionRiskHarm id="37" source="nd"/>
+<ActionDescription id="37" source="nd">
+<IntentionalVagueness id="37" source="nd"/>
+</ActionDescription>
+<ActionCost id="37" source="nd"/>
+<ActionValue id="37" source="nd"/>
+<ActionType id="37" source="nd"/>
+</Action>
+<Reason id="35" source="nd"/>
+<EvidenceQuality id="35" source="nd">
+<EvidenceQualityDescription id="35" source="nd"/>
+<Disagreement id="35" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="35" source="nd">
+<RecommendationStrengthCode id="35" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="35" source="nd"/>
+<Logic id="35" source="nd"/>
+<Cost id="35" source="nd"/>
+<Linkage id="35" source="nd"/>
+<Reference id="35" source="nd"/>
+<Certainty id="35" source="nd"/>
+<Goal id="35" source="nd"/>
+</Conditional>
+<Imperative id="13" source="nd">
+<BenefitHarmAssessment id="13" source="nd"/>
+<Scope id="13" source="nd">
+<ScopeCode id="13" source="nd"/>
+</Scope>
+<Directive id="15" source="nd">
+<DirectiveActor id="15" source="nd"/>
+<DirectiveCode id="15" source="nd"/>
+<DirectiveVerb id="15" source="nd"/>
+<DirectiveDeonticTerm id="15" source="nd"/>
+<DirectiveVerbComplement id="15" source="nd"/>
+<DirectiveBenefit id="15" source="nd"/>
+<DirectiveRiskHarm id="15" source="nd"/>
+<DirectiveDescription id="15" source="nd">
+<IntentionalVagueness id="15" source="nd"/>
+</DirectiveDescription>
+<DirectiveCost id="15" source="nd"/>
+<DirectiveValue id="15" source="nd"/>
+<DirectiveType id="15" source="nd"/>
+</Directive>
+<Reason id="13" source="nd"/>
+<EvidenceQuality id="13" source="nd">
+<EvidenceQualityDescription id="13" source="nd"/>
+<Disagreement id="13" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="13" source="nd">
+<RecommendationStrengthCode id="13" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="13" source="nd"/>
+<Logic id="13" source="nd"/>
+<Cost id="13" source="nd"/>
+<Linkage id="13" source="nd"/>
+<Reference id="13" source="nd"/>
+<Certainty id="13" source="nd"/>
+<Goal id="13" source="nd"/>
+</Imperative>
+<RecommendationNotes id="6" source="nd"/>
+</Recommendation>
+<Recommendation id="10" source="explicit">Definition of ART eligibility<StatementOfFact id="10" source="nd"/>
+<Conditional id="38" source="inferred">Infant under 12 months - Confirmed HIV infection (DNA‐PCR needed)<BenefitHarmAssessment id="38" source="nd"/>
+<DecisionVariable id="75" source="inferred">age<Value id="75" source="explicit">under 12 months</Value>
+<DecisionVariableCode id="75" source="nd"/>
+<DecisionVariableDescription id="75" source="nd">
+<IntentionalVagueness id="75" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="75" source="nd">
+<Sensitivity id="75" source="nd"/>
+<Specificity id="75" source="nd"/>
+<PredictiveValue id="75" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="75" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="82" source="inferred">DNA-PCR test result<Value id="82" source="inferred">positive</Value>
+<DecisionVariableCode id="82" source="nd"/>
+<DecisionVariableDescription id="82" source="nd">
+<IntentionalVagueness id="82" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="82" source="nd">
+<Sensitivity id="82" source="nd"/>
+<Specificity id="82" source="nd"/>
+<PredictiveValue id="82" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="82" source="nd"/>
+</DecisionVariable>
+<Action id="40" source="inferred">patient is eligible for ART<ActionActor id="40" source="nd"/>
+<ActionCode id="40" source="nd"/>
+<ActionVerb id="40" source="nd"/>
+<ActionDeonticTerm id="40" source="nd"/>
+<ActionVerbComplement id="40" source="nd"/>
+<ActionBenefit id="40" source="nd"/>
+<ActionRiskHarm id="40" source="nd"/>
+<ActionDescription id="40" source="nd">
+<IntentionalVagueness id="40" source="nd"/>
+</ActionDescription>
+<ActionCost id="40" source="nd"/>
+<ActionValue id="40" source="nd"/>
+<ActionType id="40" source="nd"/>
+</Action>
+<Reason id="38" source="nd"/>
+<EvidenceQuality id="38" source="nd">
+<EvidenceQualityDescription id="38" source="nd"/>
+<Disagreement id="38" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="38" source="nd">
+<RecommendationStrengthCode id="38" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="38" source="nd"/>
+<Logic id="38" source="nd"/>
+<Cost id="38" source="nd"/>
+<Linkage id="38" source="nd"/>
+<Reference id="38" source="nd"/>
+<Certainty id="38" source="nd"/>
+<Goal id="38" source="nd"/>
+</Conditional>
+<Conditional id="43" source="explicit">Infant under 12 months -  Presumed  severe  HIV  disease  (PSHD)<BenefitHarmAssessment id="43" source="nd"/>
+<DecisionVariable id="80" source="nd">
+<Value id="80" source="nd"/>
+<DecisionVariableCode id="80" source="nd"/>
+<DecisionVariableDescription id="80" source="nd">
+<IntentionalVagueness id="80" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="80" source="nd">
+<Sensitivity id="80" source="nd"/>
+<Specificity id="80" source="nd"/>
+<PredictiveValue id="80" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="80" source="nd"/>
+</DecisionVariable>
+<Action id="45" source="nd">
+<ActionActor id="45" source="nd"/>
+<ActionCode id="45" source="nd"/>
+<ActionVerb id="45" source="nd"/>
+<ActionDeonticTerm id="45" source="nd"/>
+<ActionVerbComplement id="45" source="nd"/>
+<ActionBenefit id="45" source="nd"/>
+<ActionRiskHarm id="45" source="nd"/>
+<ActionDescription id="45" source="nd">
+<IntentionalVagueness id="45" source="nd"/>
+</ActionDescription>
+<ActionCost id="45" source="nd"/>
+<ActionValue id="45" source="nd"/>
+<ActionType id="45" source="nd"/>
+</Action>
+<Reason id="43" source="nd"/>
+<EvidenceQuality id="43" source="nd">
+<EvidenceQualityDescription id="43" source="nd"/>
+<Disagreement id="43" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="43" source="nd">
+<RecommendationStrengthCode id="43" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="43" source="nd"/>
+<Logic id="43" source="nd"/>
+<Cost id="43" source="nd"/>
+<Linkage id="43" source="nd"/>
+<Reference id="43" source="nd"/>
+<Certainty id="43" source="nd"/>
+<Goal id="43" source="nd"/>
+</Conditional>
+<Conditional id="42" source="explicit">Child 12 to under 24 months -   HIV rapid antibody test or DNA‐PCR<BenefitHarmAssessment id="42" source="nd"/>
+<DecisionVariable id="79" source="inferred">HIV test result<Value id="79" source="inferred">positive</Value>
+<DecisionVariableCode id="79" source="nd"/>
+<DecisionVariableDescription id="79" source="nd">
+<IntentionalVagueness id="79" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="79" source="nd">
+<Sensitivity id="79" source="nd"/>
+<Specificity id="79" source="nd"/>
+<PredictiveValue id="79" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="79" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="83" source="inferred">age<Value id="83" source="explicit">12 to under 24 months</Value>
+<DecisionVariableCode id="83" source="nd"/>
+<DecisionVariableDescription id="83" source="nd">
+<IntentionalVagueness id="83" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="83" source="nd">
+<Sensitivity id="83" source="nd"/>
+<Specificity id="83" source="nd"/>
+<PredictiveValue id="83" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="83" source="nd"/>
+</DecisionVariable>
+<Action id="44" source="inferred">patient is eligible for ART<ActionActor id="44" source="nd"/>
+<ActionCode id="44" source="nd"/>
+<ActionVerb id="44" source="nd"/>
+<ActionDeonticTerm id="44" source="nd"/>
+<ActionVerbComplement id="44" source="nd"/>
+<ActionBenefit id="44" source="nd"/>
+<ActionRiskHarm id="44" source="nd"/>
+<ActionDescription id="44" source="nd">
+<IntentionalVagueness id="44" source="nd"/>
+</ActionDescription>
+<ActionCost id="44" source="nd"/>
+<ActionValue id="44" source="nd"/>
+<ActionType id="44" source="nd"/>
+</Action>
+<Reason id="42" source="nd"/>
+<EvidenceQuality id="42" source="nd">
+<EvidenceQualityDescription id="42" source="nd"/>
+<Disagreement id="42" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="42" source="nd">
+<RecommendationStrengthCode id="42" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="42" source="nd"/>
+<Logic id="42" source="nd"/>
+<Cost id="42" source="nd"/>
+<Linkage id="42" source="nd"/>
+<Reference id="42" source="nd"/>
+<Certainty id="42" source="nd"/>
+<Goal id="42" source="nd"/>
+</Conditional>
+<Conditional id="41" source="inferred">Child 24 months to under 5 years -  Confirmed HIV infection (HIV rapid antibody test) and WHO stage 1 or 2<BenefitHarmAssessment id="41" source="nd"/>
+<DecisionVariable id="78" source="inferred">age<Value id="78" source="explicit">24 months to under 5 years</Value>
+<DecisionVariableCode id="78" source="nd"/>
+<DecisionVariableDescription id="78" source="nd">
+<IntentionalVagueness id="78" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="78" source="nd">
+<Sensitivity id="78" source="nd"/>
+<Specificity id="78" source="nd"/>
+<PredictiveValue id="78" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="78" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="84" source="inferred">HIV rapid test result<Value id="84" source="inferred">positive</Value>
+<DecisionVariableCode id="84" source="nd"/>
+<DecisionVariableDescription id="84" source="nd">
+<IntentionalVagueness id="84" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="84" source="nd">
+<Sensitivity id="84" source="nd"/>
+<Specificity id="84" source="nd"/>
+<PredictiveValue id="84" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="84" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="85" source="inferred">WHO clinical stage<Value id="86" source="explicit">stage 1 or 2</Value>
+<DecisionVariableCode id="85" source="nd"/>
+<DecisionVariableDescription id="85" source="nd">
+<IntentionalVagueness id="85" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="85" source="nd">
+<Sensitivity id="85" source="nd"/>
+<Specificity id="85" source="nd"/>
+<PredictiveValue id="85" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="85" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="86" source="explicit">CD4<Value id="87" source="explicit">≤750 cells/mm3 or ≤25%</Value>
+<DecisionVariableCode id="86" source="nd"/>
+<DecisionVariableDescription id="86" source="nd">
+<IntentionalVagueness id="86" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="86" source="nd">
+<Sensitivity id="86" source="nd"/>
+<Specificity id="86" source="nd"/>
+<PredictiveValue id="86" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="86" source="nd"/>
+</DecisionVariable>
+<Action id="43" source="inferred">patient is eligible for ART<ActionActor id="43" source="nd"/>
+<ActionCode id="43" source="nd"/>
+<ActionVerb id="43" source="nd"/>
+<ActionDeonticTerm id="43" source="nd"/>
+<ActionVerbComplement id="43" source="nd"/>
+<ActionBenefit id="43" source="nd"/>
+<ActionRiskHarm id="43" source="nd"/>
+<ActionDescription id="43" source="nd">
+<IntentionalVagueness id="43" source="nd"/>
+</ActionDescription>
+<ActionCost id="43" source="nd"/>
+<ActionValue id="43" source="nd"/>
+<ActionType id="43" source="nd"/>
+</Action>
+<Reason id="41" source="nd"/>
+<EvidenceQuality id="41" source="nd">
+<EvidenceQualityDescription id="41" source="nd"/>
+<Disagreement id="41" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="41" source="nd">
+<RecommendationStrengthCode id="41" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="41" source="nd"/>
+<Logic id="41" source="nd"/>
+<Cost id="41" source="nd"/>
+<Linkage id="41" source="nd"/>
+<Reference id="41" source="nd"/>
+<Certainty id="41" source="nd"/>
+<Goal id="41" source="nd"/>
+</Conditional>
+<Conditional id="40" source="explicit">Child 24 months to under 5 years -   WHO clinical stage 3 or 4<BenefitHarmAssessment id="40" source="nd"/>
+<DecisionVariable id="77" source="inferred">age<Value id="77" source="explicit">24 months to under 5 years</Value>
+<DecisionVariableCode id="77" source="nd"/>
+<DecisionVariableDescription id="77" source="nd">
+<IntentionalVagueness id="77" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="77" source="nd">
+<Sensitivity id="77" source="nd"/>
+<Specificity id="77" source="nd"/>
+<PredictiveValue id="77" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="77" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="87" source="explicit">WHO clinical stage<Value id="88" source="explicit">stage 3 or 4</Value>
+<DecisionVariableCode id="87" source="nd"/>
+<DecisionVariableDescription id="87" source="nd">
+<IntentionalVagueness id="87" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="87" source="nd">
+<Sensitivity id="87" source="nd"/>
+<Specificity id="87" source="nd"/>
+<PredictiveValue id="87" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="87" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="88" source="inferred">HIV rapid test result<Value id="89" source="inferred">positive</Value>
+<DecisionVariableCode id="88" source="nd"/>
+<DecisionVariableDescription id="88" source="nd">
+<IntentionalVagueness id="88" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="88" source="nd">
+<Sensitivity id="88" source="nd"/>
+<Specificity id="88" source="nd"/>
+<PredictiveValue id="88" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="88" source="nd"/>
+</DecisionVariable>
+<Action id="42" source="inferred">patient is eligible for ART<ActionActor id="42" source="nd"/>
+<ActionCode id="42" source="nd"/>
+<ActionVerb id="42" source="nd"/>
+<ActionDeonticTerm id="42" source="nd"/>
+<ActionVerbComplement id="42" source="nd"/>
+<ActionBenefit id="42" source="nd"/>
+<ActionRiskHarm id="42" source="nd"/>
+<ActionDescription id="42" source="nd">
+<IntentionalVagueness id="42" source="nd"/>
+</ActionDescription>
+<ActionCost id="42" source="nd"/>
+<ActionValue id="42" source="nd"/>
+<ActionType id="42" source="nd"/>
+</Action>
+<Reason id="40" source="nd"/>
+<EvidenceQuality id="40" source="nd">
+<EvidenceQualityDescription id="40" source="nd"/>
+<Disagreement id="40" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="40" source="nd">
+<RecommendationStrengthCode id="40" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="40" source="nd"/>
+<Logic id="40" source="nd"/>
+<Cost id="40" source="nd"/>
+<Linkage id="40" source="nd"/>
+<Reference id="40" source="nd"/>
+<Certainty id="40" source="nd"/>
+<Goal id="40" source="nd"/>
+</Conditional>
+<Conditional id="39" source="inferred">Child or adult 5 years and over - Pregnant women<BenefitHarmAssessment id="39" source="nd"/>
+<DecisionVariable id="76" source="inferred">HIV rapid test result<Value id="76" source="inferred">positive</Value>
+<DecisionVariableCode id="76" source="nd"/>
+<DecisionVariableDescription id="76" source="nd">
+<IntentionalVagueness id="76" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="76" source="nd">
+<Sensitivity id="76" source="nd"/>
+<Specificity id="76" source="nd"/>
+<PredictiveValue id="76" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="76" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="91" source="inferred">pregnancy status<Value id="92" source="inferred">pregnant</Value>
+<DecisionVariableCode id="91" source="nd"/>
+<DecisionVariableDescription id="91" source="nd">
+<IntentionalVagueness id="91" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="91" source="nd">
+<Sensitivity id="91" source="nd"/>
+<Specificity id="91" source="nd"/>
+<PredictiveValue id="91" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="91" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="5" source="inferred">Pregnancy duration<Value id="5" source="inferred">13 weeks or more</Value>
+<DecisionVariableCode codeset="" id="5" source="nd"/>
+<DecisionVariableDescription id="5" source="nd">
+<IntentionalVagueness id="5" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="5" source="nd">
+<Sensitivity id="5" source="nd"/>
+<Specificity id="5" source="nd"/>
+<PredictiveValue id="5" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="5" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="90" source="inferred">age<Value id="91" source="explicit">5 years and over</Value>
+<DecisionVariableCode id="90" source="nd"/>
+<DecisionVariableDescription id="90" source="nd">
+<IntentionalVagueness id="90" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="90" source="nd">
+<Sensitivity id="90" source="nd"/>
+<Specificity id="90" source="nd"/>
+<PredictiveValue id="90" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="90" source="nd"/>
+</DecisionVariable>
+<Action id="41" source="inferred">patient is eligible for ART<ActionActor id="41" source="nd"/>
+<ActionCode id="41" source="nd"/>
+<ActionVerb id="41" source="nd"/>
+<ActionDeonticTerm id="41" source="nd"/>
+<ActionVerbComplement id="41" source="nd"/>
+<ActionBenefit id="41" source="nd"/>
+<ActionRiskHarm id="41" source="nd"/>
+<ActionDescription id="41" source="nd">
+<IntentionalVagueness id="41" source="nd"/>
+</ActionDescription>
+<ActionCost id="41" source="nd"/>
+<ActionValue id="41" source="nd"/>
+<ActionType id="41" source="nd"/>
+</Action>
+<Action id="4" source="explicit">5A is the regimen of choice<ActionActor id="4" source="nd"/>
+<ActionCode id="4" source="nd"/>
+<ActionVerb id="4" source="nd"/>
+<ActionDeonticTerm id="4" source="nd"/>
+<ActionVerbComplement id="4" source="nd"/>
+<ActionBenefit id="4" source="nd"/>
+<ActionRiskHarm id="4" source="nd"/>
+<ActionDescription id="4" source="nd">
+<IntentionalVagueness id="4" source="nd"/>
+</ActionDescription>
+<ActionCost id="4" source="nd"/>
+<ActionValue id="4" source="nd"/>
+<ActionType id="4" source="nd"/>
+</Action>
+<Reason id="39" source="nd"/>
+<EvidenceQuality id="39" source="nd">
+<EvidenceQualityDescription id="39" source="nd"/>
+<Disagreement id="39" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="39" source="nd">
+<RecommendationStrengthCode id="39" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="39" source="nd"/>
+<Logic id="39" source="nd"/>
+<Cost id="39" source="nd"/>
+<Linkage id="39" source="nd"/>
+<Reference id="39" source="nd"/>
+<Certainty id="39" source="nd"/>
+<Goal id="39" source="nd"/>
+</Conditional>
+<Conditional id="44" source="inferred">Child or adult 5 years and over - breastfeeding women<BenefitHarmAssessment id="44" source="nd"/>
+<DecisionVariable id="89" source="inferred">age<Value id="90" source="explicit">5 years and over</Value>
+<DecisionVariableCode id="89" source="nd"/>
+<DecisionVariableDescription id="89" source="nd">
+<IntentionalVagueness id="89" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="89" source="nd">
+<Sensitivity id="89" source="nd"/>
+<Specificity id="89" source="nd"/>
+<PredictiveValue id="89" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="89" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="98" source="inferred">HIV rapid test result<Value id="99" source="inferred">positive</Value>
+<DecisionVariableCode id="98" source="nd"/>
+<DecisionVariableDescription id="98" source="nd">
+<IntentionalVagueness id="98" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="98" source="nd">
+<Sensitivity id="98" source="nd"/>
+<Specificity id="98" source="nd"/>
+<PredictiveValue id="98" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="98" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="97" source="inferred">breastfeeding status<Value id="98" source="inferred">breastfeeding</Value>
+<DecisionVariableCode id="97" source="nd"/>
+<DecisionVariableDescription id="97" source="nd">
+<IntentionalVagueness id="97" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="97" source="nd">
+<Sensitivity id="97" source="nd"/>
+<Specificity id="97" source="nd"/>
+<PredictiveValue id="97" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="97" source="nd"/>
+</DecisionVariable>
+<Action id="46" source="inferred">patient is eligible for ART<ActionActor id="46" source="nd"/>
+<ActionCode id="46" source="nd"/>
+<ActionVerb id="46" source="nd"/>
+<ActionDeonticTerm id="46" source="nd"/>
+<ActionVerbComplement id="46" source="nd"/>
+<ActionBenefit id="46" source="nd"/>
+<ActionRiskHarm id="46" source="nd"/>
+<ActionDescription id="46" source="nd">
+<IntentionalVagueness id="46" source="nd"/>
+</ActionDescription>
+<ActionCost id="46" source="nd"/>
+<ActionValue id="46" source="nd"/>
+<ActionType id="46" source="nd"/>
+</Action>
+<Action id="5" source="explicit">5A is the regimen of choice<ActionActor id="5" source="nd"/>
+<ActionCode id="5" source="nd"/>
+<ActionVerb id="5" source="nd"/>
+<ActionDeonticTerm id="5" source="nd"/>
+<ActionVerbComplement id="5" source="nd"/>
+<ActionBenefit id="5" source="nd"/>
+<ActionRiskHarm id="5" source="nd"/>
+<ActionDescription id="5" source="nd">
+<IntentionalVagueness id="5" source="nd"/>
+</ActionDescription>
+<ActionCost id="5" source="nd"/>
+<ActionValue id="5" source="nd"/>
+<ActionType id="5" source="nd"/>
+</Action>
+<Reason id="44" source="nd"/>
+<EvidenceQuality id="44" source="nd">
+<EvidenceQualityDescription id="44" source="nd"/>
+<Disagreement id="44" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="44" source="nd">
+<RecommendationStrengthCode id="44" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="44" source="nd"/>
+<Logic id="44" source="nd"/>
+<Cost id="44" source="nd"/>
+<Linkage id="44" source="nd"/>
+<Reference id="44" source="nd"/>
+<Certainty id="44" source="nd"/>
+<Goal id="44" source="nd"/>
+</Conditional>
+<Conditional id="45" source="inferred">Child or adult 5 years and over - WHO stage 1 or 2<BenefitHarmAssessment id="45" source="nd"/>
+<DecisionVariable id="92" source="inferred">age<Value id="93" source="explicit">5 years and over</Value>
+<DecisionVariableCode id="92" source="nd"/>
+<DecisionVariableDescription id="92" source="nd">
+<IntentionalVagueness id="92" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="92" source="nd">
+<Sensitivity id="92" source="nd"/>
+<Specificity id="92" source="nd"/>
+<PredictiveValue id="92" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="92" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="101" source="inferred">HIV rapid test result<Value id="102" source="inferred">positive</Value>
+<DecisionVariableCode id="101" source="nd"/>
+<DecisionVariableDescription id="101" source="nd">
+<IntentionalVagueness id="101" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="101" source="nd">
+<Sensitivity id="101" source="nd"/>
+<Specificity id="101" source="nd"/>
+<PredictiveValue id="101" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="101" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="100" source="inferred">WHO clinical stage<Value id="101" source="explicit">stage 1 or 2</Value>
+<DecisionVariableCode codeset="" id="100" source="nd"/>
+<DecisionVariableDescription id="100" source="nd">
+<IntentionalVagueness id="100" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="100" source="nd">
+<Sensitivity id="100" source="nd"/>
+<Specificity id="100" source="nd"/>
+<PredictiveValue id="100" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="100" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="99" source="inferred">CD4 count<Value id="100" source="explicit">≤350 cells/mm3</Value>
+<DecisionVariableCode id="99" source="nd"/>
+<DecisionVariableDescription id="99" source="nd">
+<IntentionalVagueness id="99" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="99" source="nd">
+<Sensitivity id="99" source="nd"/>
+<Specificity id="99" source="nd"/>
+<PredictiveValue id="99" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="99" source="nd"/>
+</DecisionVariable>
+<Action id="47" source="inferred">patient is eligible for ART<ActionActor id="47" source="nd"/>
+<ActionCode id="47" source="nd"/>
+<ActionVerb id="47" source="nd"/>
+<ActionDeonticTerm id="47" source="nd"/>
+<ActionVerbComplement id="47" source="nd"/>
+<ActionBenefit id="47" source="nd"/>
+<ActionRiskHarm id="47" source="nd"/>
+<ActionDescription id="47" source="nd">
+<IntentionalVagueness id="47" source="nd"/>
+</ActionDescription>
+<ActionCost id="47" source="nd"/>
+<ActionValue id="47" source="nd"/>
+<ActionType id="47" source="nd"/>
+</Action>
+<Reason id="45" source="nd"/>
+<EvidenceQuality id="45" source="nd">
+<EvidenceQualityDescription id="45" source="nd"/>
+<Disagreement id="45" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="45" source="nd">
+<RecommendationStrengthCode id="45" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="45" source="nd"/>
+<Logic id="45" source="nd"/>
+<Cost id="45" source="nd"/>
+<Linkage id="45" source="nd"/>
+<Reference id="45" source="nd"/>
+<Certainty id="45" source="nd"/>
+<Goal id="45" source="nd"/>
+</Conditional>
+<Conditional id="48" source="inferred">Child or adult 5 years and over - WHO clinical stage 3 or 4<BenefitHarmAssessment id="48" source="nd"/>
+<DecisionVariable id="95" source="inferred">age<Value id="96" source="explicit">5 years and over</Value>
+<DecisionVariableCode id="95" source="nd"/>
+<DecisionVariableDescription id="95" source="nd">
+<IntentionalVagueness id="95" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="95" source="nd">
+<Sensitivity id="95" source="nd"/>
+<Specificity id="95" source="nd"/>
+<PredictiveValue id="95" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="95" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="103" source="inferred">HIV rapid test result<Value id="104" source="inferred">positive</Value>
+<DecisionVariableCode id="103" source="nd"/>
+<DecisionVariableDescription id="103" source="nd">
+<IntentionalVagueness id="103" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="103" source="nd">
+<Sensitivity id="103" source="nd"/>
+<Specificity id="103" source="nd"/>
+<PredictiveValue id="103" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="103" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="102" source="explicit">WHO clinical stage<Value id="103" source="explicit">stage 3 or 4</Value>
+<DecisionVariableCode id="102" source="nd"/>
+<DecisionVariableDescription id="102" source="nd">
+<IntentionalVagueness id="102" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="102" source="nd">
+<Sensitivity id="102" source="nd"/>
+<Specificity id="102" source="nd"/>
+<PredictiveValue id="102" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="102" source="nd"/>
+</DecisionVariable>
+<Action id="50" source="inferred">patient is eligible for ART<ActionActor id="50" source="nd"/>
+<ActionCode id="50" source="nd"/>
+<ActionVerb id="50" source="nd"/>
+<ActionDeonticTerm id="50" source="nd"/>
+<ActionVerbComplement id="50" source="nd"/>
+<ActionBenefit id="50" source="nd"/>
+<ActionRiskHarm id="50" source="nd"/>
+<ActionDescription id="50" source="nd">
+<IntentionalVagueness id="50" source="nd"/>
+</ActionDescription>
+<ActionCost id="50" source="nd"/>
+<ActionValue id="50" source="nd"/>
+<ActionType id="50" source="nd"/>
+</Action>
+<Reason id="48" source="nd"/>
+<EvidenceQuality id="48" source="nd">
+<EvidenceQualityDescription id="48" source="nd"/>
+<Disagreement id="48" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="48" source="nd">
+<RecommendationStrengthCode id="48" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="48" source="nd"/>
+<Logic id="48" source="nd"/>
+<Cost id="48" source="nd"/>
+<Linkage id="48" source="nd"/>
+<Reference id="48" source="nd"/>
+<Certainty id="48" source="nd"/>
+<Goal id="48" source="nd"/>
+</Conditional>
+<Imperative id="16" source="nd">
+<BenefitHarmAssessment id="16" source="nd"/>
+<Scope id="16" source="nd">
+<ScopeCode id="16" source="nd"/>
+</Scope>
+<Directive id="18" source="nd">
+<DirectiveActor id="18" source="nd"/>
+<DirectiveCode id="18" source="nd"/>
+<DirectiveVerb id="18" source="nd"/>
+<DirectiveDeonticTerm id="18" source="nd"/>
+<DirectiveVerbComplement id="18" source="nd"/>
+<DirectiveBenefit id="18" source="nd"/>
+<DirectiveRiskHarm id="18" source="nd"/>
+<DirectiveDescription id="18" source="nd">
+<IntentionalVagueness id="18" source="nd"/>
+</DirectiveDescription>
+<DirectiveCost id="18" source="nd"/>
+<DirectiveValue id="18" source="nd"/>
+<DirectiveType id="18" source="nd"/>
+</Directive>
+<Reason id="16" source="nd"/>
+<EvidenceQuality id="16" source="nd">
+<EvidenceQualityDescription id="16" source="nd"/>
+<Disagreement id="16" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="16" source="nd">
+<RecommendationStrengthCode id="16" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="16" source="nd"/>
+<Logic id="16" source="nd"/>
+<Cost id="16" source="nd"/>
+<Linkage id="16" source="nd"/>
+<Reference id="16" source="nd"/>
+<Certainty id="16" source="nd"/>
+<Goal id="16" source="nd"/>
+</Imperative>
+<RecommendationNotes id="10" source="nd"/>
+</Recommendation>
+<Recommendation id="9" source="explicit">Provider initiated family planning (PIFP)<StatementOfFact id="9" source="nd"/>
+<Conditional id="37" source="explicit">Implementing routine PIFP in HIV clinic -  men<BenefitHarmAssessment id="37" source="nd"/>
+<DecisionVariable id="74" source="inferred">age<Value id="74" source="explicit">15 years and above</Value>
+<DecisionVariableCode id="74" source="nd"/>
+<DecisionVariableDescription id="74" source="nd">
+<IntentionalVagueness id="74" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="74" source="nd">
+<Sensitivity id="74" source="nd"/>
+<Specificity id="74" source="nd"/>
+<PredictiveValue id="74" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="74" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="105" source="inferred">gender<Value id="106" source="inferred">male</Value>
+<DecisionVariableCode id="105" source="nd"/>
+<DecisionVariableDescription id="105" source="nd">
+<IntentionalVagueness id="105" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="105" source="nd">
+<Sensitivity id="105" source="nd"/>
+<Specificity id="105" source="nd"/>
+<PredictiveValue id="105" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="105" source="nd"/>
+</DecisionVariable>
+<Action id="39" source="inferred">Offer a minimum of 30 condoms to patient<ActionActor id="39" source="nd"/>
+<ActionCode id="39" source="nd"/>
+<ActionVerb id="39" source="nd"/>
+<ActionDeonticTerm id="39" source="nd"/>
+<ActionVerbComplement id="39" source="nd"/>
+<ActionBenefit id="39" source="nd"/>
+<ActionRiskHarm id="39" source="nd"/>
+<ActionDescription id="39" source="nd">
+<IntentionalVagueness id="39" source="nd"/>
+</ActionDescription>
+<ActionCost id="39" source="nd"/>
+<ActionValue id="39" source="nd"/>
+<ActionType id="39" source="nd"/>
+</Action>
+<Reason id="37" source="nd"/>
+<EvidenceQuality id="37" source="nd">
+<EvidenceQualityDescription id="37" source="nd"/>
+<Disagreement id="37" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="37" source="nd">
+<RecommendationStrengthCode id="37" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="37" source="nd"/>
+<Logic id="37" source="nd"/>
+<Cost id="37" source="nd"/>
+<Linkage id="37" source="nd"/>
+<Reference id="37" source="nd"/>
+<Certainty id="37" source="nd"/>
+<Goal id="37" source="nd"/>
+</Conditional>
+<Conditional id="50" source="inferred">Implementing routine PIFP in HIV clinic - women<BenefitHarmAssessment id="50" source="nd"/>
+<DecisionVariable id="107" source="inferred">age<Value id="108" source="explicit">15 years and above</Value>
+<DecisionVariableCode id="107" source="nd"/>
+<DecisionVariableDescription id="107" source="nd">
+<IntentionalVagueness id="107" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="107" source="nd">
+<Sensitivity id="107" source="nd"/>
+<Specificity id="107" source="nd"/>
+<PredictiveValue id="107" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="107" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="109" source="inferred">gender<Value id="110" source="explicit">women</Value>
+<DecisionVariableCode id="109" source="nd"/>
+<DecisionVariableDescription id="109" source="nd">
+<IntentionalVagueness id="109" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="109" source="nd">
+<Sensitivity id="109" source="nd"/>
+<Specificity id="109" source="nd"/>
+<PredictiveValue id="109" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="109" source="nd"/>
+</DecisionVariable>
+<Action id="53" source="inferred">Offer a minimum of 30 condoms to all women<ActionActor id="53" source="nd"/>
+<ActionCode id="53" source="nd"/>
+<ActionVerb id="53" source="nd"/>
+<ActionDeonticTerm id="53" source="nd"/>
+<ActionVerbComplement id="53" source="nd"/>
+<ActionBenefit id="53" source="nd"/>
+<ActionRiskHarm id="53" source="nd"/>
+<ActionDescription id="53" source="nd">
+<IntentionalVagueness id="53" source="nd"/>
+</ActionDescription>
+<ActionCost id="53" source="nd"/>
+<ActionValue id="53" source="nd"/>
+<ActionType id="53" source="nd"/>
+</Action>
+<Action id="54" source="inferred">Offer 1 Depo‐Provera injection every 3 months<ActionActor id="54" source="nd"/>
+<ActionCode id="54" source="nd"/>
+<ActionVerb id="54" source="nd"/>
+<ActionDeonticTerm id="54" source="nd"/>
+<ActionVerbComplement id="54" source="nd"/>
+<ActionBenefit id="54" source="nd"/>
+<ActionRiskHarm id="54" source="nd"/>
+<ActionDescription id="54" source="nd">
+<IntentionalVagueness id="54" source="nd"/>
+</ActionDescription>
+<ActionCost id="54" source="nd"/>
+<ActionValue id="54" source="nd"/>
+<ActionType id="54" source="nd"/>
+</Action>
+<Reason id="50" source="nd"/>
+<EvidenceQuality id="50" source="nd">
+<EvidenceQualityDescription id="50" source="nd"/>
+<Disagreement id="50" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="50" source="nd">
+<RecommendationStrengthCode id="50" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="50" source="nd"/>
+<Logic id="50" source="nd"/>
+<Cost id="50" source="nd"/>
+<Linkage id="50" source="nd"/>
+<Reference id="50" source="nd"/>
+<Certainty id="50" source="nd"/>
+<Goal id="50" source="nd"/>
+</Conditional>
+<Conditional id="49" source="explicit">Giving Depo‐Provera<BenefitHarmAssessment id="49" source="nd"/>
+<DecisionVariable id="106" source="inferred">prescribed drug<Value id="107" source="explicit">Depo‐Provera</Value>
+<DecisionVariableCode id="106" source="nd"/>
+<DecisionVariableDescription id="106" source="nd">
+<IntentionalVagueness id="106" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="106" source="nd">
+<Sensitivity id="106" source="nd"/>
+<Specificity id="106" source="nd"/>
+<PredictiveValue id="106" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="106" source="nd"/>
+</DecisionVariable>
+<Action id="52" source="explicit">Inject 1 vial (150mg) in the deltoid muscle<ActionActor id="52" source="nd"/>
+<ActionCode id="52" source="nd"/>
+<ActionVerb id="52" source="nd"/>
+<ActionDeonticTerm id="52" source="nd"/>
+<ActionVerbComplement id="52" source="nd"/>
+<ActionBenefit id="52" source="nd"/>
+<ActionRiskHarm id="52" source="nd"/>
+<ActionDescription id="52" source="nd">
+<IntentionalVagueness id="52" source="nd"/>
+</ActionDescription>
+<ActionCost id="52" source="nd"/>
+<ActionValue id="52" source="nd"/>
+<ActionType id="52" source="nd"/>
+</Action>
+<Reason id="49" source="nd"/>
+<EvidenceQuality id="49" source="nd">
+<EvidenceQualityDescription id="49" source="nd"/>
+<Disagreement id="49" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="49" source="nd">
+<RecommendationStrengthCode id="49" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="49" source="nd"/>
+<Logic id="49" source="nd"/>
+<Cost id="49" source="nd"/>
+<Linkage id="49" source="nd"/>
+<Reference id="49" source="nd"/>
+<Certainty id="49" source="nd"/>
+<Goal id="49" source="nd"/>
+</Conditional>
+<Imperative id="17" source="inferred">
+<BenefitHarmAssessment id="17" source="nd"/>
+<Scope id="17" source="nd">
+<ScopeCode id="17" source="nd"/>
+</Scope>
+<Directive id="19" source="inferred">
+<DirectiveActor id="19" source="nd"/>
+<DirectiveCode id="19" source="nd"/>
+<DirectiveVerb id="19" source="nd"/>
+<DirectiveDeonticTerm id="19" source="nd"/>
+<DirectiveVerbComplement id="19" source="nd"/>
+<DirectiveBenefit id="19" source="nd"/>
+<DirectiveRiskHarm id="19" source="nd"/>
+<DirectiveDescription id="19" source="nd">
+<IntentionalVagueness id="19" source="nd"/>
+</DirectiveDescription>
+<DirectiveCost id="19" source="nd"/>
+<DirectiveValue id="19" source="nd"/>
+<DirectiveType id="19" source="nd"/>
+</Directive>
+<Reason id="17" source="nd"/>
+<EvidenceQuality id="17" source="nd">
+<EvidenceQualityDescription id="17" source="nd"/>
+<Disagreement id="17" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="17" source="nd">
+<RecommendationStrengthCode id="17" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="17" source="nd"/>
+<Logic id="17" source="nd"/>
+<Cost id="17" source="nd"/>
+<Linkage id="17" source="nd"/>
+<Reference id="17" source="nd"/>
+<Certainty id="17" source="nd"/>
+<Goal id="17" source="nd"/>
+</Imperative>
+<RecommendationNotes id="9" source="nd"/>
+</Recommendation>
+<Recommendation id="8" source="explicit">Cotrimoxazole preventive therapy (CPT)<StatementOfFact id="8" source="nd"/>
+<Conditional id="36" source="explicit">All infants born to HIV infected mothers<BenefitHarmAssessment id="36" source="nd"/>
+<DecisionVariable id="73" source="inferred">age<Value id="73" source="explicit">from age 6 weeks</Value>
+<DecisionVariableCode id="73" source="nd"/>
+<DecisionVariableDescription id="73" source="nd">
+<IntentionalVagueness id="73" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="73" source="nd">
+<Sensitivity id="73" source="nd"/>
+<Specificity id="73" source="nd"/>
+<PredictiveValue id="73" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="73" source="inferred"/>
+</DecisionVariable>
+<DecisionVariable id="117" source="inferred">age category<Value id="118" source="inferred">infant</Value>
+<DecisionVariableCode id="117" source="nd"/>
+<DecisionVariableDescription id="117" source="nd">
+<IntentionalVagueness id="117" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="117" source="nd">
+<Sensitivity id="117" source="nd"/>
+<Specificity id="117" source="nd"/>
+<PredictiveValue id="117" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="117" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="116" source="inferred">confirmed HIV infection status<Value id="117" source="inferred">N/A</Value>
+<DecisionVariableCode codeset="" id="116" source="nd"/>
+<DecisionVariableDescription id="116" source="nd">
+<IntentionalVagueness id="116" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="116" source="nd">
+<Sensitivity id="116" source="nd"/>
+<Specificity id="116" source="nd"/>
+<PredictiveValue id="116" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="116" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="115" source="inferred">mother's HIV status<Value id="116" source="inferred">positive</Value>
+<DecisionVariableCode id="115" source="nd"/>
+<DecisionVariableDescription id="115" source="nd">
+<IntentionalVagueness id="115" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="115" source="nd">
+<Sensitivity id="115" source="nd"/>
+<Specificity id="115" source="nd"/>
+<PredictiveValue id="115" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="115" source="nd"/>
+</DecisionVariable>
+<Action id="38" source="explicit">Aim to start CPT straight after the infant has finished NVP syrup<ActionActor id="38" source="nd"/>
+<ActionCode id="38" source="nd"/>
+<ActionVerb id="38" source="nd"/>
+<ActionDeonticTerm id="38" source="nd"/>
+<ActionVerbComplement id="38" source="nd"/>
+<ActionBenefit id="38" source="nd"/>
+<ActionRiskHarm id="38" source="nd"/>
+<ActionDescription id="38" source="nd">
+<IntentionalVagueness id="38" source="nd"/>
+</ActionDescription>
+<ActionCost id="38" source="nd"/>
+<ActionValue id="38" source="nd"/>
+<ActionType id="38" source="nd"/>
+</Action>
+<Action id="59" source="explicit">Keep the infant on CPT until s/he is confirmed HIV‐negative and is discharged from HCC follow‐up (around age 24 months)<ActionActor id="59" source="nd"/>
+<ActionCode id="59" source="nd"/>
+<ActionVerb id="59" source="nd"/>
+<ActionDeonticTerm id="59" source="nd"/>
+<ActionVerbComplement id="59" source="nd"/>
+<ActionBenefit id="59" source="nd"/>
+<ActionRiskHarm id="59" source="nd"/>
+<ActionDescription id="59" source="nd">
+<IntentionalVagueness id="59" source="nd"/>
+</ActionDescription>
+<ActionCost id="59" source="nd"/>
+<ActionValue id="59" source="nd"/>
+<ActionType id="59" source="nd"/>
+</Action>
+<Reason id="36" source="nd"/>
+<EvidenceQuality id="36" source="nd">
+<EvidenceQualityDescription id="36" source="nd"/>
+<Disagreement id="36" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="36" source="nd">
+<RecommendationStrengthCode id="36" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="36" source="nd"/>
+<Logic id="36" source="nd"/>
+<Cost id="36" source="nd"/>
+<Linkage id="36" source="nd"/>
+<Reference id="36" source="nd"/>
+<Certainty id="36" source="nd"/>
+<Goal id="36" source="nd"/>
+</Conditional>
+<Conditional id="54" source="explicit">Confirmed HIV infected children from age 6 weeks and adults<BenefitHarmAssessment id="54" source="nd"/>
+<DecisionVariable id="113" source="inferred">age<Value id="114" source="explicit">from age 6 weeks</Value>
+<DecisionVariableCode id="113" source="nd"/>
+<DecisionVariableDescription id="113" source="nd">
+<IntentionalVagueness id="113" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="113" source="nd">
+<Sensitivity id="113" source="nd"/>
+<Specificity id="113" source="nd"/>
+<PredictiveValue id="113" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="113" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="118" source="inferred">Confirmed HIV status<Value id="119" source="inferred">positive</Value>
+<DecisionVariableCode id="118" source="nd"/>
+<DecisionVariableDescription id="118" source="nd">
+<IntentionalVagueness id="118" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="118" source="nd">
+<Sensitivity id="118" source="nd"/>
+<Specificity id="118" source="nd"/>
+<PredictiveValue id="118" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="118" source="nd"/>
+</DecisionVariable>
+<Action id="58" source="inferred">Start patient on CPT<ActionActor id="58" source="nd"/>
+<ActionCode id="58" source="nd"/>
+<ActionVerb id="58" source="nd"/>
+<ActionDeonticTerm id="58" source="nd"/>
+<ActionVerbComplement id="58" source="nd"/>
+<ActionBenefit id="58" source="nd"/>
+<ActionRiskHarm id="58" source="nd"/>
+<ActionDescription id="58" source="nd">
+<IntentionalVagueness id="58" source="nd"/>
+</ActionDescription>
+<ActionCost id="58" source="nd"/>
+<ActionValue id="58" source="nd"/>
+<ActionType id="58" source="nd"/>
+</Action>
+<Reason id="54" source="nd"/>
+<EvidenceQuality id="54" source="nd">
+<EvidenceQualityDescription id="54" source="nd"/>
+<Disagreement id="54" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="54" source="nd">
+<RecommendationStrengthCode id="54" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="54" source="nd"/>
+<Logic id="54" source="nd"/>
+<Cost id="54" source="nd"/>
+<Linkage id="54" source="nd"/>
+<Reference id="54" source="nd"/>
+<Certainty id="54" source="nd"/>
+<Goal id="54" source="nd"/>
+</Conditional>
+<Conditional id="53" source="inferred">Giving SP to HIV infected pregnant women on CPT<BenefitHarmAssessment id="53" source="nd"/>
+<DecisionVariable id="112" source="inferred">pregnancy status<Value id="113" source="inferred">pregnant</Value>
+<DecisionVariableCode id="112" source="nd"/>
+<DecisionVariableDescription id="112" source="nd">
+<IntentionalVagueness id="112" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="112" source="nd">
+<Sensitivity id="112" source="nd"/>
+<Specificity id="112" source="nd"/>
+<PredictiveValue id="112" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="112" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="119" source="inferred">HIV test result<Value id="120" source="inferred">positive</Value>
+<DecisionVariableCode id="119" source="nd"/>
+<DecisionVariableDescription id="119" source="nd">
+<IntentionalVagueness id="119" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="119" source="nd">
+<Sensitivity id="119" source="nd"/>
+<Specificity id="119" source="nd"/>
+<PredictiveValue id="119" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="119" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="120" source="inferred">CPT status<Value id="121" source="inferred">on CPT</Value>
+<DecisionVariableCode id="120" source="nd"/>
+<DecisionVariableDescription id="120" source="nd">
+<IntentionalVagueness id="120" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="120" source="nd">
+<Sensitivity id="120" source="nd"/>
+<Specificity id="120" source="nd"/>
+<PredictiveValue id="120" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="120" source="nd"/>
+</DecisionVariable>
+<Action id="57" source="explicit">Do not give SP<ActionActor id="57" source="nd"/>
+<ActionCode id="57" source="nd"/>
+<ActionVerb id="57" source="nd"/>
+<ActionDeonticTerm id="57" source="nd"/>
+<ActionVerbComplement id="57" source="nd"/>
+<ActionBenefit id="57" source="nd"/>
+<ActionRiskHarm id="57" source="nd"/>
+<ActionDescription id="57" source="nd">
+<IntentionalVagueness id="57" source="nd"/>
+</ActionDescription>
+<ActionCost id="57" source="nd"/>
+<ActionValue id="57" source="nd"/>
+<ActionType id="57" source="nd"/>
+</Action>
+<Reason id="53" source="nd"/>
+<EvidenceQuality id="53" source="nd">
+<EvidenceQualityDescription id="53" source="nd"/>
+<Disagreement id="53" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="53" source="nd">
+<RecommendationStrengthCode id="53" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="53" source="nd"/>
+<Logic id="53" source="nd"/>
+<Cost id="53" source="nd"/>
+<Linkage id="53" source="nd"/>
+<Reference id="53" source="nd"/>
+<Certainty id="53" source="nd"/>
+<Goal id="53" source="nd"/>
+</Conditional>
+<Conditional id="52" source="inferred">If SP has already been taken - pregnant women<BenefitHarmAssessment id="52" source="nd"/>
+<DecisionVariable id="111" source="inferred">pregnancy status<Value id="112" source="inferred">pregnant</Value>
+<DecisionVariableCode id="111" source="nd"/>
+<DecisionVariableDescription id="111" source="nd">
+<IntentionalVagueness id="111" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="111" source="nd">
+<Sensitivity id="111" source="nd"/>
+<Specificity id="111" source="nd"/>
+<PredictiveValue id="111" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="111" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="122" source="inferred">HIV test result<Value id="123" source="inferred">positive</Value>
+<DecisionVariableCode id="122" source="nd"/>
+<DecisionVariableDescription id="122" source="nd">
+<IntentionalVagueness id="122" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="122" source="nd">
+<Sensitivity id="122" source="nd"/>
+<Specificity id="122" source="nd"/>
+<PredictiveValue id="122" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="122" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="123" source="inferred">taken SP<Value id="124" source="inferred">Yes</Value>
+<DecisionVariableCode id="123" source="nd"/>
+<DecisionVariableDescription id="123" source="nd">
+<IntentionalVagueness id="123" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="123" source="nd">
+<Sensitivity id="123" source="nd"/>
+<Specificity id="123" source="nd"/>
+<PredictiveValue id="123" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="123" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="121" source="inferred">CPT status<Value id="122" source="inferred">N/A</Value>
+<DecisionVariableCode id="121" source="nd"/>
+<DecisionVariableDescription id="121" source="nd">
+<IntentionalVagueness id="121" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="121" source="nd">
+<Sensitivity id="121" source="nd"/>
+<Specificity id="121" source="nd"/>
+<PredictiveValue id="121" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="121" source="nd"/>
+</DecisionVariable>
+<Action id="56" source="inferred">wait for 14 days before starting patient on CPT<ActionActor id="56" source="nd"/>
+<ActionCode id="56" source="nd"/>
+<ActionVerb id="56" source="nd"/>
+<ActionDeonticTerm id="56" source="nd"/>
+<ActionVerbComplement id="56" source="nd"/>
+<ActionBenefit id="56" source="nd"/>
+<ActionRiskHarm id="56" source="nd"/>
+<ActionDescription id="56" source="nd">
+<IntentionalVagueness id="56" source="nd"/>
+</ActionDescription>
+<ActionCost id="56" source="nd"/>
+<ActionValue id="56" source="nd"/>
+<ActionType id="56" source="nd"/>
+</Action>
+<Reason id="52" source="nd"/>
+<EvidenceQuality id="52" source="nd">
+<EvidenceQualityDescription id="52" source="nd"/>
+<Disagreement id="52" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="52" source="nd">
+<RecommendationStrengthCode id="52" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="52" source="nd"/>
+<Logic id="52" source="nd"/>
+<Cost id="52" source="nd"/>
+<Linkage id="52" source="nd"/>
+<Reference id="52" source="nd"/>
+<Certainty id="52" source="nd"/>
+<Goal id="52" source="nd"/>
+</Conditional>
+<Conditional id="51" source="inferred">Who and when to stop on CPT - HIV exposed children<BenefitHarmAssessment id="51" source="nd"/>
+<DecisionVariable id="110" source="inferred">CPT status<Value id="111" source="inferred">on CPT</Value>
+<DecisionVariableCode id="110" source="nd"/>
+<DecisionVariableDescription id="110" source="nd">
+<IntentionalVagueness id="110" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="110" source="nd">
+<Sensitivity id="110" source="nd"/>
+<Specificity id="110" source="nd"/>
+<PredictiveValue id="110" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="110" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="130" source="inferred">age<Value id="131" source="inferred">24 months or older</Value>
+<DecisionVariableCode id="130" source="nd"/>
+<DecisionVariableDescription id="130" source="nd">
+<IntentionalVagueness id="130" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="130" source="nd">
+<Sensitivity id="130" source="nd"/>
+<Specificity id="130" source="nd"/>
+<PredictiveValue id="130" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="130" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="129" source="inferred">breastfeeding status<Value id="130" source="inferred">stopped breastfeeding</Value>
+<DecisionVariableCode id="129" source="nd"/>
+<DecisionVariableDescription id="129" source="nd">
+<IntentionalVagueness id="129" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="129" source="nd">
+<Sensitivity id="129" source="nd"/>
+<Specificity id="129" source="nd"/>
+<PredictiveValue id="129" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="129" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="128" source="inferred">duration after stopping of breastfeeding<Value id="129" source="explicit">at least 6 weeks</Value>
+<DecisionVariableCode id="128" source="nd"/>
+<DecisionVariableDescription id="128" source="nd">
+<IntentionalVagueness id="128" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="128" source="nd">
+<Sensitivity id="128" source="nd"/>
+<Specificity id="128" source="nd"/>
+<PredictiveValue id="128" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="128" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="133" source="inferred">Mother's HIV status<Value id="134" source="inferred">positive</Value>
+<DecisionVariableCode id="133" source="nd"/>
+<DecisionVariableDescription id="133" source="nd">
+<IntentionalVagueness id="133" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="133" source="nd">
+<Sensitivity id="133" source="nd"/>
+<Specificity id="133" source="nd"/>
+<PredictiveValue id="133" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="133" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="132" source="inferred">Confirmed HIV test result<Value id="133" source="inferred">negative</Value>
+<DecisionVariableCode id="132" source="nd"/>
+<DecisionVariableDescription id="132" source="nd">
+<IntentionalVagueness id="132" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="132" source="nd">
+<Sensitivity id="132" source="nd"/>
+<Specificity id="132" source="nd"/>
+<PredictiveValue id="132" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="132" source="nd"/>
+</DecisionVariable>
+<Action id="55" source="inferred">stop patient on CPT<ActionActor id="55" source="nd"/>
+<ActionCode id="55" source="nd"/>
+<ActionVerb id="55" source="nd"/>
+<ActionDeonticTerm id="55" source="nd"/>
+<ActionVerbComplement id="55" source="nd"/>
+<ActionBenefit id="55" source="nd"/>
+<ActionRiskHarm id="55" source="nd"/>
+<ActionDescription id="55" source="nd">
+<IntentionalVagueness id="55" source="nd"/>
+</ActionDescription>
+<ActionCost id="55" source="nd"/>
+<ActionValue id="55" source="nd"/>
+<ActionType id="55" source="nd"/>
+</Action>
+<Reason id="51" source="nd"/>
+<EvidenceQuality id="51" source="nd">
+<EvidenceQualityDescription id="51" source="nd"/>
+<Disagreement id="51" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="51" source="nd">
+<RecommendationStrengthCode id="51" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="51" source="nd"/>
+<Logic id="51" source="nd"/>
+<Cost id="51" source="nd"/>
+<Linkage id="51" source="nd"/>
+<Reference id="51" source="nd"/>
+<Certainty id="51" source="nd"/>
+<Goal id="51" source="nd"/>
+</Conditional>
+<Conditional id="57" source="inferred">Who and when to stop on CPT -  severe side effects<BenefitHarmAssessment id="57" source="nd"/>
+<DecisionVariable id="127" source="inferred">CPT status<Value id="128" source="inferred">on CPT</Value>
+<DecisionVariableCode id="127" source="nd"/>
+<DecisionVariableDescription id="127" source="nd">
+<IntentionalVagueness id="127" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="127" source="nd">
+<Sensitivity id="127" source="nd"/>
+<Specificity id="127" source="nd"/>
+<PredictiveValue id="127" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="127" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="134" source="explicit">severe side effects<Value id="135" source="inferred">present</Value>
+<DecisionVariableCode id="134" source="nd"/>
+<DecisionVariableDescription id="134" source="nd">
+<IntentionalVagueness id="134" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="134" source="nd">
+<Sensitivity id="134" source="nd"/>
+<Specificity id="134" source="nd"/>
+<PredictiveValue id="134" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="134" source="nd"/>
+</DecisionVariable>
+<Action id="62" source="inferred">stop patient on CPT<ActionActor id="62" source="nd"/>
+<ActionCode id="62" source="nd"/>
+<ActionVerb id="62" source="nd"/>
+<ActionDeonticTerm id="62" source="nd"/>
+<ActionVerbComplement id="62" source="nd"/>
+<ActionBenefit id="62" source="nd"/>
+<ActionRiskHarm id="62" source="nd"/>
+<ActionDescription id="62" source="nd">
+<IntentionalVagueness id="62" source="nd"/>
+</ActionDescription>
+<ActionCost id="62" source="nd"/>
+<ActionValue id="62" source="nd"/>
+<ActionType id="62" source="nd"/>
+</Action>
+<Reason id="57" source="nd"/>
+<EvidenceQuality id="57" source="nd">
+<EvidenceQualityDescription id="57" source="nd"/>
+<Disagreement id="57" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="57" source="nd">
+<RecommendationStrengthCode id="57" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="57" source="nd"/>
+<Logic id="57" source="nd"/>
+<Cost id="57" source="nd"/>
+<Linkage id="57" source="nd"/>
+<Reference id="57" source="nd"/>
+<Certainty id="57" source="nd"/>
+<Goal id="57" source="nd"/>
+</Conditional>
+<Conditional id="64" source="inferred">Dosage of Cotrimoxazole Preventive Therapy - less than 6kg<BenefitHarmAssessment id="64" source="nd"/>
+<DecisionVariable id="141" source="inferred">CPT eligibility<Value id="142" source="inferred">eligible</Value>
+<DecisionVariableCode id="141" source="nd"/>
+<DecisionVariableDescription id="141" source="nd">
+<IntentionalVagueness id="141" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="141" source="nd">
+<Sensitivity id="141" source="nd"/>
+<Specificity id="141" source="nd"/>
+<PredictiveValue id="141" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="141" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="142" source="inferred">weight<Value id="143" source="explicit">less than 6kg</Value>
+<DecisionVariableCode id="142" source="nd"/>
+<DecisionVariableDescription id="142" source="nd">
+<IntentionalVagueness id="142" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="142" source="nd">
+<Sensitivity id="142" source="nd"/>
+<Specificity id="142" source="nd"/>
+<PredictiveValue id="142" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="142" source="nd"/>
+</DecisionVariable>
+<Action id="69" source="inferred">dosage is ¼ 480mg tablet 24‐hourly or 1 120mg tablet 12‐hourly or  5ml 24‐hourly<ActionActor id="69" source="nd"/>
+<ActionCode id="69" source="nd"/>
+<ActionVerb id="69" source="nd"/>
+<ActionDeonticTerm id="69" source="nd"/>
+<ActionVerbComplement id="69" source="nd"/>
+<ActionBenefit id="69" source="nd"/>
+<ActionRiskHarm id="69" source="nd"/>
+<ActionDescription id="69" source="nd">
+<IntentionalVagueness id="69" source="nd"/>
+</ActionDescription>
+<ActionCost id="69" source="nd"/>
+<ActionValue id="69" source="nd"/>
+<ActionType id="69" source="nd"/>
+</Action>
+<Reason id="64" source="nd"/>
+<EvidenceQuality id="64" source="nd">
+<EvidenceQualityDescription id="64" source="nd"/>
+<Disagreement id="64" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="64" source="nd">
+<RecommendationStrengthCode id="64" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="64" source="nd"/>
+<Logic id="64" source="nd"/>
+<Cost id="64" source="nd"/>
+<Linkage id="64" source="nd"/>
+<Reference id="64" source="nd"/>
+<Certainty id="64" source="nd"/>
+<Goal id="64" source="nd"/>
+</Conditional>
+<Conditional id="63" source="inferred">Dosage of Cotrimoxazole Preventive Therapy - 6.0 – 13.9kg<BenefitHarmAssessment id="63" source="nd"/>
+<DecisionVariable id="140" source="inferred">CPT eligibility<Value id="141" source="inferred">eligible</Value>
+<DecisionVariableCode id="140" source="nd"/>
+<DecisionVariableDescription id="140" source="nd">
+<IntentionalVagueness id="140" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="140" source="nd">
+<Sensitivity id="140" source="nd"/>
+<Specificity id="140" source="nd"/>
+<PredictiveValue id="140" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="140" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="143" source="inferred">weight<Value id="144" source="explicit">6.0 – 13.9kg</Value>
+<DecisionVariableCode id="143" source="nd"/>
+<DecisionVariableDescription id="143" source="nd">
+<IntentionalVagueness id="143" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="143" source="nd">
+<Sensitivity id="143" source="nd"/>
+<Specificity id="143" source="nd"/>
+<PredictiveValue id="143" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="143" source="nd"/>
+</DecisionVariable>
+<Action id="68" source="inferred">dosage is 1⁄2 480mg tablet 24‐hourly  or 2 120 mg tablets 24‐hourly  or 5ml syrup 24‐hourly<ActionActor id="68" source="nd"/>
+<ActionCode id="68" source="nd"/>
+<ActionVerb id="68" source="nd"/>
+<ActionDeonticTerm id="68" source="nd"/>
+<ActionVerbComplement id="68" source="nd"/>
+<ActionBenefit id="68" source="nd"/>
+<ActionRiskHarm id="68" source="nd"/>
+<ActionDescription id="68" source="nd">
+<IntentionalVagueness id="68" source="nd"/>
+</ActionDescription>
+<ActionCost id="68" source="nd"/>
+<ActionValue id="68" source="nd"/>
+<ActionType id="68" source="nd"/>
+</Action>
+<Reason id="63" source="nd"/>
+<EvidenceQuality id="63" source="nd">
+<EvidenceQualityDescription id="63" source="nd"/>
+<Disagreement id="63" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="63" source="nd">
+<RecommendationStrengthCode id="63" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="63" source="nd"/>
+<Logic id="63" source="nd"/>
+<Cost id="63" source="nd"/>
+<Linkage id="63" source="nd"/>
+<Reference id="63" source="nd"/>
+<Certainty id="63" source="nd"/>
+<Goal id="63" source="nd"/>
+</Conditional>
+<Conditional id="62" source="inferred">Dosage of Cotrimoxazole Preventive Therapy - 14.0 – 29.9kg<BenefitHarmAssessment id="62" source="nd"/>
+<DecisionVariable id="139" source="inferred">CPT eligibility<Value id="140" source="inferred">eligible</Value>
+<DecisionVariableCode id="139" source="nd"/>
+<DecisionVariableDescription id="139" source="nd">
+<IntentionalVagueness id="139" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="139" source="nd">
+<Sensitivity id="139" source="nd"/>
+<Specificity id="139" source="nd"/>
+<PredictiveValue id="139" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="139" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="144" source="inferred">weight<Value id="145" source="explicit">14.0 – 29.9kg</Value>
+<DecisionVariableCode id="144" source="nd"/>
+<DecisionVariableDescription id="144" source="nd">
+<IntentionalVagueness id="144" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="144" source="nd">
+<Sensitivity id="144" source="nd"/>
+<Specificity id="144" source="nd"/>
+<PredictiveValue id="144" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="144" source="nd"/>
+</DecisionVariable>
+<Action id="67" source="inferred">dosage is 1 480mg tablet 24‐hourly<ActionActor id="67" source="nd"/>
+<ActionCode id="67" source="nd"/>
+<ActionVerb id="67" source="nd"/>
+<ActionDeonticTerm id="67" source="nd"/>
+<ActionVerbComplement id="67" source="nd"/>
+<ActionBenefit id="67" source="nd"/>
+<ActionRiskHarm id="67" source="nd"/>
+<ActionDescription id="67" source="nd">
+<IntentionalVagueness id="67" source="nd"/>
+</ActionDescription>
+<ActionCost id="67" source="nd"/>
+<ActionValue id="67" source="nd"/>
+<ActionType id="67" source="nd"/>
+</Action>
+<Reason id="62" source="nd"/>
+<EvidenceQuality id="62" source="nd">
+<EvidenceQualityDescription id="62" source="nd"/>
+<Disagreement id="62" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="62" source="nd">
+<RecommendationStrengthCode id="62" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="62" source="nd"/>
+<Logic id="62" source="nd"/>
+<Cost id="62" source="nd"/>
+<Linkage id="62" source="nd"/>
+<Reference id="62" source="nd"/>
+<Certainty id="62" source="nd"/>
+<Goal id="62" source="nd"/>
+</Conditional>
+<Conditional id="61" source="inferred">Dosage of Cotrimoxazole Preventive Therapy - 30.0kg and above<BenefitHarmAssessment id="61" source="nd"/>
+<DecisionVariable id="138" source="inferred">CPT eligibility<Value id="139" source="inferred">eligible</Value>
+<DecisionVariableCode codeset="" id="138" source="nd"/>
+<DecisionVariableDescription id="138" source="nd">
+<IntentionalVagueness id="138" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="138" source="nd">
+<Sensitivity id="138" source="nd"/>
+<Specificity id="138" source="nd"/>
+<PredictiveValue id="138" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="138" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="145" source="inferred">weight<Value id="146" source="explicit">30.0kg and above</Value>
+<DecisionVariableCode id="145" source="nd"/>
+<DecisionVariableDescription id="145" source="nd">
+<IntentionalVagueness id="145" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="145" source="nd">
+<Sensitivity id="145" source="nd"/>
+<Specificity id="145" source="nd"/>
+<PredictiveValue id="145" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="145" source="nd"/>
+</DecisionVariable>
+<Action id="66" source="inferred">dosage is 1 480mg tablet 12‐hourly<ActionActor id="66" source="nd"/>
+<ActionCode id="66" source="nd"/>
+<ActionVerb id="66" source="nd"/>
+<ActionDeonticTerm id="66" source="nd"/>
+<ActionVerbComplement id="66" source="nd"/>
+<ActionBenefit id="66" source="nd"/>
+<ActionRiskHarm id="66" source="nd"/>
+<ActionDescription id="66" source="nd">
+<IntentionalVagueness id="66" source="nd"/>
+</ActionDescription>
+<ActionCost id="66" source="nd"/>
+<ActionValue id="66" source="nd"/>
+<ActionType id="66" source="nd"/>
+</Action>
+<Reason id="61" source="nd"/>
+<EvidenceQuality id="61" source="nd">
+<EvidenceQualityDescription id="61" source="nd"/>
+<Disagreement id="61" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="61" source="nd">
+<RecommendationStrengthCode id="61" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="61" source="nd"/>
+<Logic id="61" source="nd"/>
+<Cost id="61" source="nd"/>
+<Linkage id="61" source="nd"/>
+<Reference id="61" source="nd"/>
+<Certainty id="61" source="nd"/>
+<Goal id="61" source="nd"/>
+</Conditional>
+<Imperative id="14" source="nd">
+<BenefitHarmAssessment id="14" source="nd"/>
+<Scope id="14" source="nd">
+<ScopeCode id="14" source="nd"/>
+</Scope>
+<Directive id="16" source="nd">
+<DirectiveActor id="16" source="nd"/>
+<DirectiveCode id="16" source="nd"/>
+<DirectiveVerb id="16" source="nd"/>
+<DirectiveDeonticTerm id="16" source="nd"/>
+<DirectiveVerbComplement id="16" source="nd"/>
+<DirectiveBenefit id="16" source="nd"/>
+<DirectiveRiskHarm id="16" source="nd"/>
+<DirectiveDescription id="16" source="nd">
+<IntentionalVagueness id="16" source="nd"/>
+</DirectiveDescription>
+<DirectiveCost id="16" source="nd"/>
+<DirectiveValue id="16" source="nd"/>
+<DirectiveType id="16" source="nd"/>
+</Directive>
+<Reason id="14" source="nd"/>
+<EvidenceQuality id="14" source="nd">
+<EvidenceQualityDescription id="14" source="nd"/>
+<Disagreement id="14" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="14" source="nd">
+<RecommendationStrengthCode id="14" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="14" source="nd"/>
+<Logic id="14" source="nd"/>
+<Cost id="14" source="nd"/>
+<Linkage id="14" source="nd"/>
+<Reference id="14" source="nd"/>
+<Certainty id="14" source="nd"/>
+<Goal id="14" source="nd"/>
+</Imperative>
+<RecommendationNotes id="8" source="nd"/>
+</Recommendation>
+<Recommendation id="4" source="explicit">Isoniazid preventive therapy (IPT)<StatementOfFact id="4" source="nd"/>
+<Conditional id="31" source="explicit">Eligibility for IPT<BenefitHarmAssessment id="31" source="nd"/>
+<DecisionVariable id="66" source="inferred">HIV test result<Value id="66" source="inferred">positive</Value>
+<DecisionVariableCode id="66" source="nd"/>
+<DecisionVariableDescription id="66" source="nd">
+<IntentionalVagueness id="66" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="66" source="nd">
+<Sensitivity id="66" source="nd"/>
+<Specificity id="66" source="nd"/>
+<PredictiveValue id="66" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="66" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="147" source="explicit">Age<Value id="148" source="explicit">2 years and older</Value>
+<DecisionVariableCode id="147" source="nd"/>
+<DecisionVariableDescription id="147" source="nd">
+<IntentionalVagueness id="147" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="147" source="nd">
+<Sensitivity id="147" source="nd"/>
+<Specificity id="147" source="nd"/>
+<PredictiveValue id="147" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="147" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="146" source="inferred">ART status<Value id="147" source="explicit">Not on ART</Value>
+<DecisionVariableCode codeset="" id="146" source="nd"/>
+<DecisionVariableDescription id="146" source="nd">
+<IntentionalVagueness id="146" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="146" source="nd">
+<Sensitivity id="146" source="nd"/>
+<Specificity id="146" source="nd"/>
+<PredictiveValue id="146" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="146" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="148" source="explicit">Active TB<Value id="149" source="inferred">ruled out</Value>
+<DecisionVariableCode id="148" source="nd"/>
+<DecisionVariableDescription id="148" source="nd">
+<IntentionalVagueness id="148" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="148" source="nd">
+<Sensitivity id="148" source="nd"/>
+<Specificity id="148" source="nd"/>
+<PredictiveValue id="148" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="148" source="nd"/>
+</DecisionVariable>
+<Action id="33" source="inferred">patient is eligible to start IPT<ActionActor id="33" source="nd"/>
+<ActionCode id="33" source="nd"/>
+<ActionVerb id="33" source="nd"/>
+<ActionDeonticTerm id="33" source="nd"/>
+<ActionVerbComplement id="33" source="nd"/>
+<ActionBenefit id="33" source="nd"/>
+<ActionRiskHarm id="33" source="nd"/>
+<ActionDescription id="33" source="nd">
+<IntentionalVagueness id="33" source="nd"/>
+</ActionDescription>
+<ActionCost id="33" source="nd"/>
+<ActionValue id="33" source="nd"/>
+<ActionType id="33" source="nd"/>
+</Action>
+<Reason id="31" source="nd"/>
+<EvidenceQuality id="31" source="nd">
+<EvidenceQualityDescription id="31" source="nd"/>
+<Disagreement id="31" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="31" source="nd">
+<RecommendationStrengthCode id="31" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="31" source="nd"/>
+<Logic id="31" source="nd"/>
+<Cost id="31" source="nd"/>
+<Linkage id="31" source="nd"/>
+<Reference id="31" source="nd"/>
+<Certainty id="31" source="nd"/>
+<Goal id="31" source="nd"/>
+</Conditional>
+<Conditional id="2" source="inferred">Stopping IPT<BenefitHarmAssessment id="2" source="nd"/>
+<DecisionVariable id="2" source="inferred">ART status<Value id="2" source="inferred">on ART</Value>
+<DecisionVariableCode id="2" source="nd"/>
+<DecisionVariableDescription id="2" source="nd">
+<IntentionalVagueness id="2" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="2" source="nd">
+<Sensitivity id="2" source="nd"/>
+<Specificity id="2" source="nd"/>
+<PredictiveValue id="2" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="2" source="nd"/>
+</DecisionVariable>
+<Action id="2" source="inferred">Stop patient on IPT<ActionActor id="2" source="nd"/>
+<ActionCode id="2" source="nd"/>
+<ActionVerb id="2" source="nd"/>
+<ActionDeonticTerm id="2" source="nd"/>
+<ActionVerbComplement id="2" source="nd"/>
+<ActionBenefit id="2" source="nd"/>
+<ActionRiskHarm id="2" source="nd"/>
+<ActionDescription id="2" source="nd">
+<IntentionalVagueness id="2" source="nd"/>
+</ActionDescription>
+<ActionCost id="2" source="nd"/>
+<ActionValue id="2" source="nd"/>
+<ActionType id="2" source="nd"/>
+</Action>
+<Reason id="2" source="nd"/>
+<EvidenceQuality id="2" source="nd">
+<EvidenceQualityDescription id="2" source="nd"/>
+<Disagreement id="2" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="2" source="nd">
+<RecommendationStrengthCode id="2" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="2" source="nd"/>
+<Logic id="2" source="nd"/>
+<Cost id="2" source="nd"/>
+<Linkage id="2" source="nd"/>
+<Reference id="2" source="nd"/>
+<Certainty id="2" source="nd"/>
+<Goal id="2" source="nd"/>
+</Conditional>
+<Imperative id="9" source="nd">
+<BenefitHarmAssessment id="9" source="nd"/>
+<Scope id="9" source="nd">
+<ScopeCode id="9" source="nd"/>
+</Scope>
+<Directive id="11" source="nd">
+<DirectiveActor id="11" source="nd"/>
+<DirectiveCode id="11" source="nd"/>
+<DirectiveVerb id="11" source="nd"/>
+<DirectiveDeonticTerm id="11" source="nd"/>
+<DirectiveVerbComplement id="11" source="nd"/>
+<DirectiveBenefit id="11" source="nd"/>
+<DirectiveRiskHarm id="11" source="nd"/>
+<DirectiveDescription id="11" source="nd">
+<IntentionalVagueness id="11" source="nd"/>
+</DirectiveDescription>
+<DirectiveCost id="11" source="nd"/>
+<DirectiveValue id="11" source="nd"/>
+<DirectiveType id="11" source="nd"/>
+</Directive>
+<Reason id="9" source="nd"/>
+<EvidenceQuality id="9" source="nd">
+<EvidenceQualityDescription id="9" source="nd"/>
+<Disagreement id="9" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="9" source="nd">
+<RecommendationStrengthCode id="9" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="9" source="nd"/>
+<Logic id="9" source="nd"/>
+<Cost id="9" source="nd"/>
+<Linkage id="9" source="nd"/>
+<Reference id="9" source="nd"/>
+<Certainty id="9" source="nd"/>
+<Goal id="9" source="nd"/>
+</Imperative>
+<RecommendationNotes id="4" source="nd"/>
+</Recommendation>
+<Recommendation id="13" source="explicit">Indications for interrupting or stopping ART<StatementOfFact id="13" source="nd"/>
+<Conditional id="3" source="explicit">Lactic acidosis<BenefitHarmAssessment id="3" source="nd"/>
+<DecisionVariable id="3" source="explicit">Lactic acidosis<Value id="3" source="inferred">present</Value>
+<DecisionVariableCode id="3" source="nd"/>
+<DecisionVariableDescription id="3" source="nd">
+<IntentionalVagueness id="3" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="3" source="nd">
+<Sensitivity id="3" source="nd"/>
+<Specificity id="3" source="nd"/>
+<PredictiveValue id="3" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="3" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="6" source="inferred">ART status<Value id="6" source="inferred">on ART</Value>
+<DecisionVariableCode codeset="" id="6" source="nd"/>
+<DecisionVariableDescription id="6" source="nd">
+<IntentionalVagueness id="6" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="6" source="nd">
+<Sensitivity id="6" source="nd"/>
+<Specificity id="6" source="nd"/>
+<PredictiveValue id="6" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="6" source="nd"/>
+</DecisionVariable>
+<Action id="3" source="explicit">ART should be stopped abruptly and completely<ActionActor id="3" source="nd"/>
+<ActionCode id="3" source="nd"/>
+<ActionVerb id="3" source="nd"/>
+<ActionDeonticTerm id="3" source="nd"/>
+<ActionVerbComplement id="3" source="nd"/>
+<ActionBenefit id="3" source="nd"/>
+<ActionRiskHarm id="3" source="nd"/>
+<ActionDescription id="3" source="nd">
+<IntentionalVagueness id="3" source="nd"/>
+</ActionDescription>
+<ActionCost id="3" source="nd"/>
+<ActionValue id="3" source="nd"/>
+<ActionType id="3" source="nd"/>
+</Action>
+<Reason id="3" source="nd"/>
+<EvidenceQuality id="3" source="nd">
+<EvidenceQualityDescription id="3" source="nd"/>
+<Disagreement id="3" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="3" source="nd">
+<RecommendationStrengthCode id="3" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="3" source="nd"/>
+<Logic id="3" source="nd"/>
+<Cost id="3" source="nd"/>
+<Linkage id="3" source="nd"/>
+<Reference id="3" source="nd"/>
+<Certainty id="3" source="nd"/>
+<Goal id="3" source="nd"/>
+</Conditional>
+<Conditional id="4" source="explicit">Pancreatitis<BenefitHarmAssessment id="4" source="nd"/>
+<DecisionVariable id="7" source="explicit">Pancreatitis<Value id="7" source="inferred">present</Value>
+<DecisionVariableCode id="7" source="nd"/>
+<DecisionVariableDescription id="7" source="nd">
+<IntentionalVagueness id="7" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="7" source="nd">
+<Sensitivity id="7" source="nd"/>
+<Specificity id="7" source="nd"/>
+<PredictiveValue id="7" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="7" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="9" source="inferred">ART status<Value id="9" source="inferred">on ART</Value>
+<DecisionVariableCode id="9" source="nd"/>
+<DecisionVariableDescription id="9" source="nd">
+<IntentionalVagueness id="9" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="9" source="nd">
+<Sensitivity id="9" source="nd"/>
+<Specificity id="9" source="nd"/>
+<PredictiveValue id="9" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="9" source="nd"/>
+</DecisionVariable>
+<Action id="6" source="explicit">ART should be stopped abruptly and completely<ActionActor id="6" source="nd"/>
+<ActionCode id="6" source="nd"/>
+<ActionVerb id="6" source="nd"/>
+<ActionDeonticTerm id="6" source="nd"/>
+<ActionVerbComplement id="6" source="nd"/>
+<ActionBenefit id="6" source="nd"/>
+<ActionRiskHarm id="6" source="nd"/>
+<ActionDescription id="6" source="nd">
+<IntentionalVagueness id="6" source="nd"/>
+</ActionDescription>
+<ActionCost id="6" source="nd"/>
+<ActionValue id="6" source="nd"/>
+<ActionType id="6" source="nd"/>
+</Action>
+<Reason id="4" source="nd"/>
+<EvidenceQuality id="4" source="nd">
+<EvidenceQualityDescription id="4" source="nd"/>
+<Disagreement id="4" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="4" source="nd">
+<RecommendationStrengthCode id="4" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="4" source="nd"/>
+<Logic id="4" source="nd"/>
+<Cost id="4" source="nd"/>
+<Linkage id="4" source="nd"/>
+<Reference id="4" source="nd"/>
+<Certainty id="4" source="nd"/>
+<Goal id="4" source="nd"/>
+</Conditional>
+<Conditional id="5" source="explicit">chronic poor adherence<BenefitHarmAssessment id="5" source="nd"/>
+<DecisionVariable id="8" source="inferred">adherence status<Value id="8" source="explicit">chronic poor adherence</Value>
+<DecisionVariableCode id="8" source="nd"/>
+<DecisionVariableDescription id="8" source="nd">
+<IntentionalVagueness id="8" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="8" source="nd">
+<Sensitivity id="8" source="nd"/>
+<Specificity id="8" source="nd"/>
+<PredictiveValue id="8" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="8" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="10" source="inferred">ART status<Value id="10" source="inferred">on ART</Value>
+<DecisionVariableCode id="10" source="nd"/>
+<DecisionVariableDescription id="10" source="nd">
+<IntentionalVagueness id="10" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="10" source="nd">
+<Sensitivity id="10" source="nd"/>
+<Specificity id="10" source="nd"/>
+<PredictiveValue id="10" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="10" source="nd"/>
+</DecisionVariable>
+<Action id="7" source="explicit">ART should be stopped<ActionActor id="7" source="nd"/>
+<ActionCode id="7" source="nd"/>
+<ActionVerb id="7" source="nd"/>
+<ActionDeonticTerm id="7" source="nd"/>
+<ActionVerbComplement id="7" source="nd"/>
+<ActionBenefit id="7" source="nd"/>
+<ActionRiskHarm id="7" source="nd"/>
+<ActionDescription id="7" source="nd">
+<IntentionalVagueness id="7" source="nd"/>
+</ActionDescription>
+<ActionCost id="7" source="nd"/>
+<ActionValue id="7" source="nd"/>
+<ActionType id="7" source="nd"/>
+</Action>
+<Reason id="5" source="nd"/>
+<EvidenceQuality id="5" source="nd">
+<EvidenceQualityDescription id="5" source="nd"/>
+<Disagreement id="5" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="5" source="nd">
+<RecommendationStrengthCode id="5" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="5" source="nd"/>
+<Logic id="5" source="nd"/>
+<Cost id="5" source="nd"/>
+<Linkage id="5" source="nd"/>
+<Reference id="5" source="nd"/>
+<Certainty id="5" source="nd"/>
+<Goal id="5" source="nd"/>
+</Conditional>
+<Imperative id="20" source="nd">
+<BenefitHarmAssessment id="20" source="nd"/>
+<Scope id="20" source="nd">
+<ScopeCode id="20" source="nd"/>
+</Scope>
+<Directive id="22" source="nd">
+<DirectiveActor id="22" source="nd"/>
+<DirectiveCode id="22" source="nd"/>
+<DirectiveVerb id="22" source="nd"/>
+<DirectiveDeonticTerm id="22" source="nd"/>
+<DirectiveVerbComplement id="22" source="nd"/>
+<DirectiveBenefit id="22" source="nd"/>
+<DirectiveRiskHarm id="22" source="nd"/>
+<DirectiveDescription id="22" source="nd">
+<IntentionalVagueness id="22" source="nd"/>
+</DirectiveDescription>
+<DirectiveCost id="22" source="nd"/>
+<DirectiveValue id="22" source="nd"/>
+<DirectiveType id="22" source="nd"/>
+</Directive>
+<Reason id="20" source="nd"/>
+<EvidenceQuality id="20" source="nd">
+<EvidenceQualityDescription id="20" source="nd"/>
+<Disagreement id="20" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="20" source="nd">
+<RecommendationStrengthCode id="20" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="20" source="nd"/>
+<Logic id="20" source="nd"/>
+<Cost id="20" source="nd"/>
+<Linkage id="20" source="nd"/>
+<Reference id="20" source="nd"/>
+<Certainty id="20" source="nd"/>
+<Goal id="20" source="nd"/>
+</Imperative>
+<RecommendationNotes id="13" source="nd"/>
+</Recommendation>
+<Recommendation id="12" source="explicit">Selecting regimen and formulation for continuation<StatementOfFact id="12" source="nd"/>
+<Conditional id="59" source="explicit">If a woman became pregnant while on an ART regimen that contains EFV<BenefitHarmAssessment id="59" source="nd"/>
+<DecisionVariable id="136" source="inferred">pregnancy status<Value id="137" source="inferred">pregnant</Value>
+<DecisionVariableCode id="136" source="nd"/>
+<DecisionVariableDescription id="136" source="nd">
+<IntentionalVagueness id="136" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="136" source="nd">
+<Sensitivity id="136" source="nd"/>
+<Specificity id="136" source="nd"/>
+<PredictiveValue id="136" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="136" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="11" source="inferred">ART status<Value id="11" source="inferred">on ART</Value>
+<DecisionVariableCode id="11" source="nd"/>
+<DecisionVariableDescription id="11" source="nd">
+<IntentionalVagueness id="11" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="11" source="nd">
+<Sensitivity id="11" source="nd"/>
+<Specificity id="11" source="nd"/>
+<PredictiveValue id="11" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="11" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="12" source="inferred">ART drug<Value id="12" source="inferred">contains EFV</Value>
+<DecisionVariableCode id="12" source="nd"/>
+<DecisionVariableDescription id="12" source="nd">
+<IntentionalVagueness id="12" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="12" source="nd">
+<Sensitivity id="12" source="nd"/>
+<Specificity id="12" source="nd"/>
+<PredictiveValue id="12" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="12" source="nd"/>
+</DecisionVariable>
+<Action id="64" source="explicit">Do NOT change ART regimen<ActionActor id="64" source="nd"/>
+<ActionCode id="64" source="nd"/>
+<ActionVerb id="64" source="nd"/>
+<ActionDeonticTerm id="64" source="nd"/>
+<ActionVerbComplement id="64" source="nd"/>
+<ActionBenefit id="64" source="nd"/>
+<ActionRiskHarm id="64" source="nd"/>
+<ActionDescription id="64" source="nd">
+<IntentionalVagueness id="64" source="nd"/>
+</ActionDescription>
+<ActionCost id="64" source="nd"/>
+<ActionValue id="64" source="nd"/>
+<ActionType id="64" source="nd"/>
+</Action>
+<Reason id="59" source="nd"/>
+<EvidenceQuality id="59" source="nd">
+<EvidenceQualityDescription id="59" source="nd"/>
+<Disagreement id="59" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="59" source="nd">
+<RecommendationStrengthCode id="59" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="59" source="nd"/>
+<Logic id="59" source="nd"/>
+<Cost id="59" source="nd"/>
+<Linkage id="59" source="nd"/>
+<Reference id="59" source="nd"/>
+<Certainty id="59" source="nd"/>
+<Goal id="59" source="nd"/>
+</Conditional>
+<Conditional id="6" source="explicit">All children who were on the new standard 1st line paediatric regimen (AZT / 3TC / NVP, Regimen 2)<BenefitHarmAssessment id="6" source="nd"/>
+<DecisionVariable id="13" source="inferred">age<Value id="13" source="explicit">after their 15th  birthday</Value>
+<DecisionVariableCode id="13" source="nd"/>
+<DecisionVariableDescription id="13" source="nd">
+<IntentionalVagueness id="13" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="13" source="nd">
+<Sensitivity id="13" source="nd"/>
+<Specificity id="13" source="nd"/>
+<PredictiveValue id="13" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="13" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="18" source="inferred">ART status<Value id="18" source="inferred">on ART</Value>
+<DecisionVariableCode id="18" source="nd"/>
+<DecisionVariableDescription id="18" source="nd">
+<IntentionalVagueness id="18" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="18" source="nd">
+<Sensitivity id="18" source="nd"/>
+<Specificity id="18" source="nd"/>
+<PredictiveValue id="18" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="18" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="14" source="inferred">ART regimen<Value id="14" source="explicit">AZT / 3TC / NVP, Regimen 2 -   1st line paediatric regimen</Value>
+<DecisionVariableCode id="14" source="nd"/>
+<DecisionVariableDescription id="14" source="nd">
+<IntentionalVagueness id="14" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="14" source="nd">
+<Sensitivity id="14" source="nd"/>
+<Specificity id="14" source="nd"/>
+<PredictiveValue id="14" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="14" source="nd"/>
+</DecisionVariable>
+<Action id="8" source="explicit">continue on Regimen 2A<ActionActor id="8" source="nd"/>
+<ActionCode id="8" source="nd"/>
+<ActionVerb id="8" source="nd"/>
+<ActionDeonticTerm id="8" source="nd"/>
+<ActionVerbComplement id="8" source="nd"/>
+<ActionBenefit id="8" source="nd"/>
+<ActionRiskHarm id="8" source="nd"/>
+<ActionDescription id="8" source="nd">
+<IntentionalVagueness id="8" source="nd"/>
+</ActionDescription>
+<ActionCost id="8" source="nd"/>
+<ActionValue id="8" source="nd"/>
+<ActionType id="8" source="nd"/>
+</Action>
+<Reason id="6" source="nd"/>
+<EvidenceQuality id="6" source="nd">
+<EvidenceQualityDescription id="6" source="nd"/>
+<Disagreement id="6" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="6" source="nd">
+<RecommendationStrengthCode id="6" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="6" source="nd"/>
+<Logic id="6" source="nd"/>
+<Cost id="6" source="nd"/>
+<Linkage id="6" source="nd"/>
+<Reference id="6" source="nd"/>
+<Certainty id="6" source="nd"/>
+<Goal id="6" source="nd"/>
+</Conditional>
+<Conditional id="2" source="inferred">Children on 1st line regimens when their weight is over 25kg<BenefitHarmAssessment id="2" source="nd"/>
+<DecisionVariable id="2" source="inferred">age category<Value id="2" source="inferred">child</Value>
+<DecisionVariableCode id="2" source="nd"/>
+<DecisionVariableDescription id="2" source="nd">
+<IntentionalVagueness id="2" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="2" source="nd">
+<Sensitivity id="2" source="nd"/>
+<Specificity id="2" source="nd"/>
+<PredictiveValue id="2" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="2" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="4" source="inferred">ART status<Value id="4" source="inferred">on ART</Value>
+<DecisionVariableCode id="4" source="nd"/>
+<DecisionVariableDescription id="4" source="nd">
+<IntentionalVagueness id="4" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="4" source="nd">
+<Sensitivity id="4" source="nd"/>
+<Specificity id="4" source="nd"/>
+<PredictiveValue id="4" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="4" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="3" source="inferred">ART regimen<Value id="3" source="inferred">1st line paediatric</Value>
+<DecisionVariableCode id="3" source="nd"/>
+<DecisionVariableDescription id="3" source="nd">
+<IntentionalVagueness id="3" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="3" source="nd">
+<Sensitivity id="3" source="nd"/>
+<Specificity id="3" source="nd"/>
+<PredictiveValue id="3" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="3" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="5" source="inferred">weight<Value id="5" source="explicit">is over 25kg</Value>
+<DecisionVariableCode id="5" source="nd"/>
+<DecisionVariableDescription id="5" source="nd">
+<IntentionalVagueness id="5" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="5" source="nd">
+<Sensitivity id="5" source="nd"/>
+<Specificity id="5" source="nd"/>
+<PredictiveValue id="5" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="5" source="nd"/>
+</DecisionVariable>
+<Action id="2" source="inferred">change patient to adult formulation<ActionActor id="2" source="nd"/>
+<ActionCode id="2" source="nd"/>
+<ActionVerb id="2" source="nd"/>
+<ActionDeonticTerm id="2" source="nd"/>
+<ActionVerbComplement id="2" source="nd"/>
+<ActionBenefit id="2" source="nd"/>
+<ActionRiskHarm id="2" source="nd"/>
+<ActionDescription id="2" source="nd">
+<IntentionalVagueness id="2" source="nd"/>
+</ActionDescription>
+<ActionCost id="2" source="nd"/>
+<ActionValue id="2" source="nd"/>
+<ActionType id="2" source="nd"/>
+</Action>
+<Reason id="2" source="nd"/>
+<EvidenceQuality id="2" source="nd">
+<EvidenceQualityDescription id="2" source="nd"/>
+<Disagreement id="2" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="2" source="nd">
+<RecommendationStrengthCode id="2" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="2" source="nd"/>
+<Logic id="2" source="nd"/>
+<Cost id="2" source="nd"/>
+<Linkage id="2" source="nd"/>
+<Reference id="2" source="nd"/>
+<Certainty id="2" source="nd"/>
+<Goal id="2" source="nd"/>
+</Conditional>
+<Conditional id="7" source="explicit">Children who were on paediatric 2nd line regimen (Regimen 9P)<BenefitHarmAssessment id="7" source="nd"/>
+<DecisionVariable id="15" source="inferred">age<Value id="15" source="explicit">after their 12th birthday</Value>
+<DecisionVariableCode id="15" source="nd"/>
+<DecisionVariableDescription id="15" source="nd">
+<IntentionalVagueness id="15" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="15" source="nd">
+<Sensitivity id="15" source="nd"/>
+<Specificity id="15" source="nd"/>
+<PredictiveValue id="15" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="15" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="17" source="inferred">ART status<Value id="17" source="inferred">on ART</Value>
+<DecisionVariableCode id="17" source="nd"/>
+<DecisionVariableDescription id="17" source="nd">
+<IntentionalVagueness id="17" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="17" source="nd">
+<Sensitivity id="17" source="nd"/>
+<Specificity id="17" source="nd"/>
+<PredictiveValue id="17" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="17" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="16" source="inferred">ART regimen<Value id="16" source="inferred">2nd line regimen - Regimen 9P</Value>
+<DecisionVariableCode id="16" source="nd"/>
+<DecisionVariableDescription id="16" source="nd">
+<IntentionalVagueness id="16" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="16" source="nd">
+<Sensitivity id="16" source="nd"/>
+<Specificity id="16" source="nd"/>
+<PredictiveValue id="16" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="16" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="19" source="nd">
+<Value id="19" source="nd"/>
+<DecisionVariableCode id="19" source="nd"/>
+<DecisionVariableDescription id="19" source="nd">
+<IntentionalVagueness id="19" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="19" source="nd">
+<Sensitivity id="19" source="nd"/>
+<Specificity id="19" source="nd"/>
+<PredictiveValue id="19" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="19" source="nd"/>
+</DecisionVariable>
+<Action id="9" source="inferred">change patient to standard adult 2nd line regimen (Regimen 7A)<ActionActor id="9" source="nd"/>
+<ActionCode id="9" source="nd"/>
+<ActionVerb id="9" source="nd"/>
+<ActionDeonticTerm id="9" source="nd"/>
+<ActionVerbComplement id="9" source="nd"/>
+<ActionBenefit id="9" source="nd"/>
+<ActionRiskHarm id="9" source="nd"/>
+<ActionDescription id="9" source="nd">
+<IntentionalVagueness id="9" source="nd"/>
+</ActionDescription>
+<ActionCost id="9" source="nd"/>
+<ActionValue id="9" source="nd"/>
+<ActionType id="9" source="nd"/>
+</Action>
+<Reason id="7" source="nd"/>
+<EvidenceQuality id="7" source="nd">
+<EvidenceQualityDescription id="7" source="nd"/>
+<Disagreement id="7" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="7" source="nd">
+<RecommendationStrengthCode id="7" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="7" source="nd"/>
+<Logic id="7" source="nd"/>
+<Cost id="7" source="nd"/>
+<Linkage id="7" source="nd"/>
+<Reference id="7" source="nd"/>
+<Certainty id="7" source="nd"/>
+<Goal id="7" source="nd"/>
+</Conditional>
+<Imperative id="19" source="nd">
+<BenefitHarmAssessment id="19" source="nd"/>
+<Scope id="19" source="nd">
+<ScopeCode id="19" source="nd"/>
+</Scope>
+<Directive id="21" source="nd">
+<DirectiveActor id="21" source="nd"/>
+<DirectiveCode id="21" source="nd"/>
+<DirectiveVerb id="21" source="nd"/>
+<DirectiveDeonticTerm id="21" source="nd"/>
+<DirectiveVerbComplement id="21" source="nd"/>
+<DirectiveBenefit id="21" source="nd"/>
+<DirectiveRiskHarm id="21" source="nd"/>
+<DirectiveDescription id="21" source="nd">
+<IntentionalVagueness id="21" source="nd"/>
+</DirectiveDescription>
+<DirectiveCost id="21" source="nd"/>
+<DirectiveValue id="21" source="nd"/>
+<DirectiveType id="21" source="nd"/>
+</Directive>
+<Reason id="19" source="nd"/>
+<EvidenceQuality id="19" source="nd">
+<EvidenceQualityDescription id="19" source="nd"/>
+<Disagreement id="19" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="19" source="nd">
+<RecommendationStrengthCode id="19" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="19" source="nd"/>
+<Logic id="19" source="nd"/>
+<Cost id="19" source="nd"/>
+<Linkage id="19" source="nd"/>
+<Reference id="19" source="nd"/>
+<Certainty id="19" source="nd"/>
+<Goal id="19" source="nd"/>
+</Imperative>
+<RecommendationNotes id="12" source="nd"/>
+</Recommendation>
+<Recommendation id="11" source="explicit">Clinical suspicion and diagnosis of treatment failure<StatementOfFact id="11" source="nd"/>
+<Conditional id="58" source="inferred">suspected ART failure diagnosis<BenefitHarmAssessment id="58" source="nd"/>
+<DecisionVariable id="135" source="inferred">ART status<Value id="136" source="inferred">on ART</Value>
+<DecisionVariableCode id="135" source="nd"/>
+<DecisionVariableDescription id="135" source="nd">
+<IntentionalVagueness id="135" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="135" source="nd">
+<Sensitivity id="135" source="nd"/>
+<Specificity id="135" source="nd"/>
+<PredictiveValue id="135" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="135" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="4" source="inferred">new WHO clinical stage condition<Value id="4" source="inferred">stage 3 or stage 4</Value>
+<DecisionVariableCode id="4" source="nd"/>
+<DecisionVariableDescription id="4" source="nd">
+<IntentionalVagueness id="4" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="4" source="nd">
+<Sensitivity id="4" source="nd"/>
+<Specificity id="4" source="nd"/>
+<PredictiveValue id="4" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="4" source="nd"/>
+</DecisionVariable>
+<Action id="63" source="inferred">Patient has suspected ART failure<ActionActor id="63" source="nd"/>
+<ActionCode id="63" source="nd"/>
+<ActionVerb id="63" source="nd"/>
+<ActionDeonticTerm id="63" source="nd"/>
+<ActionVerbComplement id="63" source="nd"/>
+<ActionBenefit id="63" source="nd"/>
+<ActionRiskHarm id="63" source="nd"/>
+<ActionDescription id="63" source="nd">
+<IntentionalVagueness id="63" source="nd"/>
+</ActionDescription>
+<ActionCost id="63" source="nd"/>
+<ActionValue id="63" source="nd"/>
+<ActionType id="63" source="nd"/>
+</Action>
+<Reason id="58" source="nd"/>
+<EvidenceQuality id="58" source="nd">
+<EvidenceQualityDescription id="58" source="nd"/>
+<Disagreement id="58" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="58" source="nd">
+<RecommendationStrengthCode id="58" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="58" source="nd"/>
+<Logic id="58" source="nd"/>
+<Cost id="58" source="nd"/>
+<Linkage id="58" source="nd"/>
+<Reference id="58" source="nd"/>
+<Certainty id="58" source="nd"/>
+<Goal id="58" source="nd"/>
+</Conditional>
+<Conditional id="3" source="inferred">suspected ART failure with good adherence<BenefitHarmAssessment id="3" source="nd"/>
+<DecisionVariable id="3" source="inferred">adherence in the last 6 months<Value id="3" source="inferred">good</Value>
+<DecisionVariableCode id="3" source="nd"/>
+<DecisionVariableDescription id="3" source="nd">
+<IntentionalVagueness id="3" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="3" source="nd">
+<Sensitivity id="3" source="nd"/>
+<Specificity id="3" source="nd"/>
+<PredictiveValue id="3" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="3" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="6" source="explicit">suspected ART failure<Value id="6" source="inferred">present</Value>
+<DecisionVariableCode id="6" source="nd"/>
+<DecisionVariableDescription id="6" source="nd">
+<IntentionalVagueness id="6" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="6" source="nd">
+<Sensitivity id="6" source="nd"/>
+<Specificity id="6" source="nd"/>
+<PredictiveValue id="6" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="6" source="nd"/>
+</DecisionVariable>
+<Action id="3" source="explicit">Do a VL or refer to have this done immediately<ActionActor id="3" source="nd"/>
+<ActionCode id="3" source="nd"/>
+<ActionVerb id="3" source="nd"/>
+<ActionDeonticTerm id="3" source="nd"/>
+<ActionVerbComplement id="3" source="nd"/>
+<ActionBenefit id="3" source="nd"/>
+<ActionRiskHarm id="3" source="nd"/>
+<ActionDescription id="3" source="nd">
+<IntentionalVagueness id="3" source="nd"/>
+</ActionDescription>
+<ActionCost id="3" source="nd"/>
+<ActionValue id="3" source="nd"/>
+<ActionType id="3" source="nd"/>
+</Action>
+<Reason id="3" source="nd"/>
+<EvidenceQuality id="3" source="nd">
+<EvidenceQualityDescription id="3" source="nd"/>
+<Disagreement id="3" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="3" source="nd">
+<RecommendationStrengthCode id="3" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="3" source="nd"/>
+<Logic id="3" source="nd"/>
+<Cost id="3" source="nd"/>
+<Linkage id="3" source="nd"/>
+<Reference id="3" source="nd"/>
+<Certainty id="3" source="nd"/>
+<Goal id="3" source="nd"/>
+</Conditional>
+<Conditional id="2" source="inferred">suspected ART failure with poor adherence<BenefitHarmAssessment id="2" source="nd"/>
+<DecisionVariable id="2" source="explicit">adherence in the last 6 months<Value id="2" source="inferred">poor</Value>
+<DecisionVariableCode id="2" source="nd"/>
+<DecisionVariableDescription id="2" source="nd">
+<IntentionalVagueness id="2" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="2" source="nd">
+<Sensitivity id="2" source="nd"/>
+<Specificity id="2" source="nd"/>
+<PredictiveValue id="2" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="2" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="7" source="explicit">suspected ART failure<Value id="7" source="inferred">present</Value>
+<DecisionVariableCode codeset="" id="7" source="nd"/>
+<DecisionVariableDescription id="7" source="nd">
+<IntentionalVagueness id="7" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="7" source="nd">
+<Sensitivity id="7" source="nd"/>
+<Specificity id="7" source="nd"/>
+<PredictiveValue id="7" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="7" source="nd"/>
+</DecisionVariable>
+<Action id="2" source="explicit">Start intensive adherence support<ActionActor id="2" source="nd"/>
+<ActionCode id="2" source="nd"/>
+<ActionVerb id="2" source="nd"/>
+<ActionDeonticTerm id="2" source="nd"/>
+<ActionVerbComplement id="2" source="nd"/>
+<ActionBenefit id="2" source="nd"/>
+<ActionRiskHarm id="2" source="nd"/>
+<ActionDescription id="2" source="nd">
+<IntentionalVagueness id="2" source="nd"/>
+</ActionDescription>
+<ActionCost id="2" source="nd"/>
+<ActionValue id="2" source="nd"/>
+<ActionType id="2" source="nd"/>
+</Action>
+<Action id="4" source="explicit">Do VL after 3 months if adherence was satisfactory<ActionActor id="4" source="nd"/>
+<ActionCode id="4" source="nd"/>
+<ActionVerb id="4" source="nd"/>
+<ActionDeonticTerm id="4" source="nd"/>
+<ActionVerbComplement id="4" source="nd"/>
+<ActionBenefit id="4" source="nd"/>
+<ActionRiskHarm id="4" source="nd"/>
+<ActionDescription id="4" source="nd">
+<IntentionalVagueness id="4" source="nd"/>
+</ActionDescription>
+<ActionCost id="4" source="nd"/>
+<ActionValue id="4" source="nd"/>
+<ActionType id="4" source="nd"/>
+</Action>
+<Reason id="2" source="nd"/>
+<EvidenceQuality id="2" source="nd">
+<EvidenceQualityDescription id="2" source="nd"/>
+<Disagreement id="2" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="2" source="nd">
+<RecommendationStrengthCode id="2" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="2" source="nd"/>
+<Logic id="2" source="nd"/>
+<Cost id="2" source="nd"/>
+<Linkage id="2" source="nd"/>
+<Reference id="2" source="nd"/>
+<Certainty id="2" source="nd"/>
+<Goal id="2" source="nd"/>
+</Conditional>
+<Conditional id="4" source="explicit">VL 5,000 copies/ml or more<BenefitHarmAssessment id="4" source="nd"/>
+<DecisionVariable id="8" source="explicit">Adherence in the last 3 months<Value id="8" source="inferred">good</Value>
+<DecisionVariableCode id="8" source="nd"/>
+<DecisionVariableDescription id="8" source="nd">
+<IntentionalVagueness id="8" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="8" source="nd">
+<Sensitivity id="8" source="nd"/>
+<Specificity id="8" source="nd"/>
+<PredictiveValue id="8" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="8" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="9" source="explicit">Repeat VL<Value id="9" source="inferred">Yes</Value>
+<DecisionVariableCode id="9" source="nd"/>
+<DecisionVariableDescription id="9" source="nd">
+<IntentionalVagueness id="9" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="9" source="nd">
+<Sensitivity id="9" source="nd"/>
+<Specificity id="9" source="nd"/>
+<PredictiveValue id="9" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="9" source="nd"/>
+</DecisionVariable>
+<DecisionVariable id="10" source="inferred">VL result<Value id="10" source="explicit">5,000 copies/ml or more</Value>
+<DecisionVariableCode id="10" source="nd"/>
+<DecisionVariableDescription id="10" source="nd">
+<IntentionalVagueness id="10" source="nd"/>
+</DecisionVariableDescription>
+<TestParameter id="10" source="nd">
+<Sensitivity id="10" source="nd"/>
+<Specificity id="10" source="nd"/>
+<PredictiveValue id="10" source="nd"/>
+</TestParameter>
+<DecisionVariableCost id="10" source="nd"/>
+</DecisionVariable>
+<Action id="5" source="inferred">start patient on 2nd  Line regimen<ActionActor id="5" source="nd"/>
+<ActionCode id="5" source="nd"/>
+<ActionVerb id="5" source="nd"/>
+<ActionDeonticTerm id="5" source="nd"/>
+<ActionVerbComplement id="5" source="nd"/>
+<ActionBenefit id="5" source="nd"/>
+<ActionRiskHarm id="5" source="nd"/>
+<ActionDescription id="5" source="nd">
+<IntentionalVagueness id="5" source="nd"/>
+</ActionDescription>
+<ActionCost id="5" source="nd"/>
+<ActionValue id="5" source="nd"/>
+<ActionType id="5" source="nd"/>
+</Action>
+<Action id="6" source="inferred">Treatment failure is confirmed<ActionActor id="6" source="nd"/>
+<ActionCode id="6" source="nd"/>
+<ActionVerb id="6" source="nd"/>
+<ActionDeonticTerm id="6" source="nd"/>
+<ActionVerbComplement id="6" source="nd"/>
+<ActionBenefit id="6" source="nd"/>
+<ActionRiskHarm id="6" source="nd"/>
+<ActionDescription id="6" source="nd">
+<IntentionalVagueness id="6" source="nd"/>
+</ActionDescription>
+<ActionCost id="6" source="nd"/>
+<ActionValue id="6" source="nd"/>
+<ActionType id="6" source="nd"/>
+</Action>
+<Reason id="4" source="nd"/>
+<EvidenceQuality id="4" source="nd">
+<EvidenceQualityDescription id="4" source="nd"/>
+<Disagreement id="4" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="4" source="nd">
+<RecommendationStrengthCode id="4" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="4" source="nd"/>
+<Logic id="4" source="nd"/>
+<Cost id="4" source="nd"/>
+<Linkage id="4" source="nd"/>
+<Reference id="4" source="nd"/>
+<Certainty id="4" source="nd"/>
+<Goal id="4" source="nd"/>
+</Conditional>
+<Imperative id="18" source="nd">
+<BenefitHarmAssessment id="18" source="nd"/>
+<Scope id="18" source="nd">
+<ScopeCode id="18" source="nd"/>
+</Scope>
+<Directive id="20" source="nd">
+<DirectiveActor id="20" source="nd"/>
+<DirectiveCode id="20" source="nd"/>
+<DirectiveVerb id="20" source="nd"/>
+<DirectiveDeonticTerm id="20" source="nd"/>
+<DirectiveVerbComplement id="20" source="nd"/>
+<DirectiveBenefit id="20" source="nd"/>
+<DirectiveRiskHarm id="20" source="nd"/>
+<DirectiveDescription id="20" source="nd">
+<IntentionalVagueness id="20" source="nd"/>
+</DirectiveDescription>
+<DirectiveCost id="20" source="nd"/>
+<DirectiveValue id="20" source="nd"/>
+<DirectiveType id="20" source="nd"/>
+</Directive>
+<Reason id="18" source="nd"/>
+<EvidenceQuality id="18" source="nd">
+<EvidenceQualityDescription id="18" source="nd"/>
+<Disagreement id="18" source="nd"/>
+</EvidenceQuality>
+<RecommendationStrength id="18" source="nd">
+<RecommendationStrengthCode id="18" source="nd"/>
+</RecommendationStrength>
+<Flexibility id="18" source="nd"/>
+<Logic id="18" source="nd"/>
+<Cost id="18" source="nd"/>
+<Linkage id="18" source="nd"/>
+<Reference id="18" source="nd"/>
+<Certainty id="18" source="nd"/>
+<Goal id="18" source="nd"/>
+</Imperative>
+<RecommendationNotes id="11" source="nd"/>
+</Recommendation>
+<Definition id="1" source="nd">
+<Term id="1" source="nd">
+<TermMeaning id="1" source="nd"/>
+</Term>
+</Definition>
+<Algorithm id="1" source="explicit">Interpretation of VL and action:  VL detectable<ActionStep id="1" source="explicit">Start intensive adherence counselling and monitoring</ActionStep>
+<ActionStep id="4" source="explicit">Assess adherence after 3 months</ActionStep>
+<ConditionalStep id="1" source="nd"/>
+<BranchStep id="1" source="nd"/>
+<SynchronizationStep id="1" source="nd"/>
+</Algorithm>
+<Algorithm id="3" source="nd">
+<ActionStep id="3" source="nd"/>
+<ConditionalStep id="3" source="nd"/>
+<BranchStep id="3" source="nd"/>
+<SynchronizationStep id="3" source="nd"/>
+</Algorithm>
+<Algorithm id="2" source="nd">
+<ActionStep id="2" source="nd"/>
+<ConditionalStep id="2" source="nd"/>
+<BranchStep id="2" source="nd"/>
+<SynchronizationStep id="2" source="nd"/>
+</Algorithm>
+<ResearchAgenda id="1" source="nd"/>
+<BackgroundInformation id="1" source="nd"/>
+</KnowledgeComponents>
+<Testing id="1" source="nd">
+<ExternalReview id="1" source="nd"/>
+<PilotTesting id="1" source="nd"/>
+<FormalAppraisal id="1" source="nd"/>
+</Testing>
+<RevisionPlan id="1" source="nd">
+<Expiration id="1" source="nd"/>
+<ScheduledReview id="1" source="nd"/>
+</RevisionPlan>
+<ImplementationPlan id="1" source="nd">
+<ImplementationStrategy id="1" source="nd"/>
+<AnticipatedBarrier id="1" source="nd"/>
+<AnticipatedEnabler id="1" source="nd"/>
+<PerformanceMeasure id="1" source="nd"/>
+</ImplementationPlan>
+</GuidelineDocument>
